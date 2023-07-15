@@ -1,0 +1,1465 @@
+[11:40:52] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[11:40:54] [ServerMain/INFO]: Loaded 7 recipes
+[11:40:56] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[11:40:56] [Server thread/INFO]: Loading properties
+[11:40:56] [Server thread/INFO]: This server is running Paper version git-Paper-67 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: e105354)
+[11:40:56] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[11:40:56] [Server thread/INFO]: Using 4 threads for Netty based IO
+[11:40:56] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[11:40:56] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 3 worker threads, and gen parallelism of 3 threads
+[11:40:56] [Server thread/INFO]: Default game type: CREATIVE
+[11:40:56] [Server thread/INFO]: Generating keypair
+[11:40:56] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:40:56] [Server thread/INFO]: Using default channel type
+[11:40:56] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[11:40:56] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[11:40:57] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:40:57] [Server thread/INFO]: Preparing level "happy"
+[11:40:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:40:57] [Server thread/INFO]: Time elapsed: 262 ms
+[11:40:57] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[11:40:57] [Server thread/INFO]: Time elapsed: 46 ms
+[11:40:57] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[11:40:57] [Server thread/INFO]: Time elapsed: 38 ms
+[11:40:57] [Server thread/INFO]: Running delayed init tasks
+[11:40:57] [Server thread/INFO]: Done (1.728s)! For help, type "help"
+[11:40:57] [Server thread/INFO]: Timings Reset
+[11:40:58] [User Authenticator #0/INFO]: UUID of player RuneNyang_ is 1c1ef11b-ae1f-4618-b7f1-37d1679a7a6b
+[11:40:59] [Server thread/INFO]: RuneNyang_ joined the game
+[11:40:59] [Server thread/INFO]: RuneNyang_[/121.136.48.57:52358] logged in with entity id 3 at ([happy]18.111281746434603, -57.80040521464992, -212.74438073020812)
+[11:41:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5947ms or 118 ticks behind
+[11:41:07] [User Authenticator #0/INFO]: UUID of player line8010 is 78f680fe-4f34-45bf-99da-5e9fce9e5daf
+[11:41:07] [Server thread/INFO]: line8010 joined the game
+[11:41:07] [Server thread/INFO]: line8010[/192.168.50.1:59037] logged in with entity id 21427 at ([happy]13.256546055517576, -58.21737741374638, -217.97144150608239)
+[11:41:09] [User Authenticator #0/INFO]: UUID of player suhan777 is b3519705-7f88-4704-abda-524b331122f7
+[11:41:09] [Server thread/INFO]: suhan777 joined the game
+[11:41:09] [Server thread/INFO]: suhan777[/121.137.147.177:49984] logged in with entity id 21869 at ([happy]21.68081184112048, -47.101850856289204, -60.98094924422137)
+[11:41:38] [Server thread/WARN]: RuneNyang_ moved too quickly! 2.3427916788743772,-7.268495811858898,-9.342716758508516
+[11:42:14] [Server thread/WARN]: RuneNyang_ moved too quickly! -0.9782447104324135,0.0,12.217523319657118
+[11:42:29] [Server thread/WARN]: suhan777 moved too quickly! -12.570628520932647,-9.354425133915846,10.953666101893958
+[11:42:30] [Server thread/WARN]: suhan777 moved too quickly! 14.868291573295526,7.687507709194932,-4.585943482559969
+[11:42:31] [Server thread/WARN]: suhan777 moved too quickly! 13.732154334225395,7.687507709194932,-3.4726510707056093
+[11:42:32] [Server thread/WARN]: suhan777 moved too quickly! 13.328879818123715,-0.6122866419300905,-1.0892247014319025
+[11:42:33] [Server thread/WARN]: suhan777 moved too quickly! 12.420612167928816,-6.937520841563519,-0.64344263914154
+[11:42:34] [Server thread/WARN]: suhan777 moved too quickly! 12.113184406475789,-6.416299956852065,-1.1175708331429064
+[11:42:43] [Server thread/WARN]: line8010 moved too quickly! 18.268453641669527,-2.888332725550228,41.42288767680725
+[11:42:45] [Server thread/WARN]: line8010 moved too quickly! -9.543366605033299,3.475148016039796,-14.63491608227038
+[11:42:46] [Server thread/WARN]: line8010 moved too quickly! 26.462712541396204,-1.5990736537705956,-4.306217422057898
+[11:43:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 122524ms or 2450 ticks behind
+[11:43:57] [Server thread/INFO]: Banned suhan777: Banned by an operator.
+[11:43:57] [Server thread/INFO]: suhan777 lost connection: You are banned from this server
+[11:43:57] [Server thread/INFO]: suhan777 left the game
+[11:43:59] [User Authenticator #1/INFO]: UUID of player suhan777 is b3519705-7f88-4704-abda-524b331122f7
+[11:44:00] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@3ea293ab[id=b3519705-7f88-4704-abda-524b331122f7,name=suhan777,properties={textures=[com.mojang.authlib.properties.Property@6a27ed2f]},legacy=false] (/121.137.147.177:49988): You are banned from this server.
+Reason: Banned by an operator.
+[11:44:00] [Server thread/INFO]: com.mojang.authlib.GameProfile@3ea293ab[id=b3519705-7f88-4704-abda-524b331122f7,name=suhan777,properties={textures=[com.mojang.authlib.properties.Property@6a27ed2f]},legacy=false] (/121.137.147.177:49988) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[11:44:16] [Server thread/INFO]: --------- Help: Index ---------------------------
+[11:44:16] [Server thread/INFO]: Use /help [n] to get page n of help.
+[11:44:16] [Server thread/INFO]: Aliases: Lists command aliases
+[11:44:16] [Server thread/INFO]: Bukkit: All commands for Bukkit
+[11:44:16] [Server thread/INFO]: Minecraft: All commands for Minecraft
+[11:44:16] [Server thread/INFO]: /advancement: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /attribute: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /ban: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /ban-ip: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /banlist: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /bossbar: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /clear: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /clone: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /damage: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /data: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /datapack: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /debug: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /defaultgamemode: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /deop: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /difficulty: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /effect: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /enchant: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /execute: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /experience: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /fill: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /fillbiome: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /forceload: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /function: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /gamemode: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /gamerule: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /give: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /help: Shows the help menu
+[11:44:16] [Server thread/INFO]: /item: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /jfr: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /kick: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /kill: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /list: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /locate: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /loot: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /me: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /minecraft:help: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /minecraft:reload: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /msg: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /mspt: View server tick times
+[11:44:16] [Server thread/INFO]: /op: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /paper: Paper related commands
+[11:44:16] [Server thread/INFO]: /pardon: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /pardon-ip: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /particle: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /perf: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /place: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /playsound: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
+[11:44:16] [Server thread/INFO]: /recipe: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /reload: Reloads the server configuration and plugins
+[11:44:16] [Server thread/INFO]: /restart: Restarts the server
+[11:44:16] [Server thread/INFO]: /return: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /ride: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /save-all: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /save-off: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /save-on: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /say: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /schedule: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /scoreboard: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /seed: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /setblock: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /setidletimeout: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /setworldspawn: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /spawnpoint: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /spectate: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /spigot: Spigot related commands
+[11:44:16] [Server thread/INFO]: /spreadplayers: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /stop: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /stopsound: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /summon: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /tag: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /team: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /teammsg: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /teleport: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /tell: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /tellraw: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /time: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /timings: Manages Spigot Timings data to see performance of the server.
+[11:44:16] [Server thread/INFO]: /title: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /tm: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /tp: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /tps: Gets the current ticks per second for the server
+[11:44:16] [Server thread/INFO]: /trigger: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
+[11:44:16] [Server thread/INFO]: /w: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /weather: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /whitelist: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /worldborder: A Mojang provided command.
+[11:44:16] [Server thread/INFO]: /xp: A Mojang provided command.
+[11:44:17] [User Authenticator #1/INFO]: UUID of player suhan777 is b3519705-7f88-4704-abda-524b331122f7
+[11:44:17] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@1c61fbd9[id=b3519705-7f88-4704-abda-524b331122f7,name=suhan777,properties={textures=[com.mojang.authlib.properties.Property@1ec09340]},legacy=false] (/121.137.147.177:49994): You are banned from this server.
+Reason: Banned by an operator.
+[11:44:17] [Server thread/INFO]: com.mojang.authlib.GameProfile@1c61fbd9[id=b3519705-7f88-4704-abda-524b331122f7,name=suhan777,properties={textures=[com.mojang.authlib.properties.Property@1ec09340]},legacy=false] (/121.137.147.177:49994) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[11:44:33] [User Authenticator #1/INFO]: UUID of player suhan777 is b3519705-7f88-4704-abda-524b331122f7
+[11:44:33] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@15a97937[id=b3519705-7f88-4704-abda-524b331122f7,name=suhan777,properties={textures=[com.mojang.authlib.properties.Property@5b0cb2c3]},legacy=false] (/121.137.147.177:49997): You are banned from this server.
+Reason: Banned by an operator.
+[11:44:33] [Server thread/INFO]: com.mojang.authlib.GameProfile@15a97937[id=b3519705-7f88-4704-abda-524b331122f7,name=suhan777,properties={textures=[com.mojang.authlib.properties.Property@5b0cb2c3]},legacy=false] (/121.137.147.177:49997) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[11:44:38] [User Authenticator #1/INFO]: UUID of player suhan777 is b3519705-7f88-4704-abda-524b331122f7
+[11:44:38] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@6ee0b04b[id=b3519705-7f88-4704-abda-524b331122f7,name=suhan777,properties={textures=[com.mojang.authlib.properties.Property@505f2121]},legacy=false] (/121.137.147.177:49999): You are banned from this server.
+Reason: Banned by an operator.
+[11:44:38] [Server thread/INFO]: com.mojang.authlib.GameProfile@6ee0b04b[id=b3519705-7f88-4704-abda-524b331122f7,name=suhan777,properties={textures=[com.mojang.authlib.properties.Property@505f2121]},legacy=false] (/121.137.147.177:49999) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[11:44:43] [User Authenticator #1/INFO]: UUID of player suhan777 is b3519705-7f88-4704-abda-524b331122f7
+[11:44:43] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@7de0d511[id=b3519705-7f88-4704-abda-524b331122f7,name=suhan777,properties={textures=[com.mojang.authlib.properties.Property@756093ea]},legacy=false] (/121.137.147.177:50000): You are banned from this server.
+Reason: Banned by an operator.
+[11:44:43] [Server thread/INFO]: com.mojang.authlib.GameProfile@7de0d511[id=b3519705-7f88-4704-abda-524b331122f7,name=suhan777,properties={textures=[com.mojang.authlib.properties.Property@756093ea]},legacy=false] (/121.137.147.177:50000) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[11:44:59] [Server thread/INFO]: line8010 issued server command: /pardon suhan777
+[11:44:59] [Server thread/INFO]: [line8010: Unbanned suhan777]
+[11:45:03] [User Authenticator #1/INFO]: UUID of player suhan777 is b3519705-7f88-4704-abda-524b331122f7
+[11:45:03] [Server thread/INFO]: suhan777 joined the game
+[11:45:03] [Server thread/INFO]: suhan777[/121.137.147.177:50006] logged in with entity id 36549 at ([happy]36.81731012078761, -55.48754370338779, -236.40398988774106)
+[11:45:11] [Server thread/INFO]: suhan777 issued server command: /tp line8010
+[11:45:11] [Server thread/INFO]: [suhan777: Teleported suhan777 to line8010]
+[11:45:25] [Server thread/INFO]: RuneNyang_ issued server command: /give @p minecraft:stick{display:{Name:'[{"text":"드래곤 막대기","italic":false}]'},CanPlaceOn:["minecraft:end_crystal"]}
+[11:45:25] [Server thread/INFO]: [RuneNyang_: Gave 1 [드래곤 막대기] to RuneNyang_]
+[11:46:32] [Server thread/INFO]: suhan777 issued server command: /tp line8010
+[11:46:32] [Server thread/INFO]: [suhan777: Teleported suhan777 to line8010]
+[11:46:33] [Server thread/INFO]: suhan777 issued server command: /tp line8010
+[11:46:33] [Server thread/INFO]: [suhan777: Teleported suhan777 to line8010]
+[11:46:33] [Server thread/INFO]: suhan777 issued server command: /tp line8010
+[11:46:33] [Server thread/INFO]: [suhan777: Teleported suhan777 to line8010]
+[11:46:34] [Server thread/INFO]: suhan777 issued server command: /tp line8010
+[11:46:34] [Server thread/INFO]: [suhan777: Teleported suhan777 to line8010]
+[11:46:34] [Server thread/INFO]: suhan777 issued server command: /tp line8010
+[11:46:34] [Server thread/INFO]: [suhan777: Teleported suhan777 to line8010]
+[11:46:35] [Server thread/INFO]: suhan777 issued server command: /tp line8010
+[11:46:35] [Server thread/INFO]: [suhan777: Teleported suhan777 to line8010]
+[11:46:35] [Server thread/INFO]: suhan777 issued server command: /tp line8010
+[11:46:35] [Server thread/INFO]: [suhan777: Teleported suhan777 to line8010]
+[11:46:35] [Server thread/INFO]: suhan777 issued server command: /tp line8010
+[11:46:35] [Server thread/INFO]: [suhan777: Teleported suhan777 to line8010]
+[11:46:36] [Server thread/INFO]: suhan777 issued server command: /tp line8010
+[11:46:36] [Server thread/INFO]: [suhan777: Teleported suhan777 to line8010]
+[11:46:36] [Server thread/INFO]: suhan777 issued server command: /tp line8010
+[11:46:36] [Server thread/INFO]: [suhan777: Teleported suhan777 to line8010]
+[11:46:37] [Server thread/INFO]: suhan777 issued server command: /tp line8010
+[11:46:37] [Server thread/INFO]: [suhan777: Teleported suhan777 to line8010]
+[11:46:37] [Server thread/INFO]: suhan777 issued server command: /tp line8010
+[11:46:37] [Server thread/INFO]: [suhan777: Teleported suhan777 to line8010]
+[11:46:37] [Server thread/INFO]: suhan777 issued server command: /
+[11:46:38] [Server thread/INFO]: suhan777 issued server command: /
+[11:46:38] [Server thread/INFO]: suhan777 issued server command: /
+[11:46:39] [Server thread/INFO]: suhan777 issued server command: /tp line8010
+[11:46:39] [Server thread/INFO]: [suhan777: Teleported suhan777 to line8010]
+[11:46:40] [Server thread/INFO]: suhan777 issued server command: /tp line8010
+[11:46:40] [Server thread/INFO]: [suhan777: Teleported suhan777 to line8010]
+[11:46:40] [Server thread/WARN]: suhan777 moved too quickly! -23.709589359666595,-0.32507640908482216,13.127188987576325
+[11:46:40] [Server thread/WARN]: suhan777 moved too quickly! -23.709589359666595,-0.32507640908482216,13.127188987576325
+[11:46:40] [Server thread/INFO]: suhan777 issued server command: /tp line8010
+[11:46:40] [Server thread/INFO]: [suhan777: Teleported suhan777 to line8010]
+[11:46:40] [Server thread/WARN]: suhan777 moved too quickly! -11.124377210933275,-0.30846136828294135,7.45061823370683
+[11:46:40] [Server thread/INFO]: suhan777 issued server command: /tp line8010
+[11:46:40] [Server thread/INFO]: [suhan777: Teleported suhan777 to line8010]
+[11:46:41] [Server thread/INFO]: suhan777 issued server command: /tp line8010
+[11:46:41] [Server thread/INFO]: [suhan777: Teleported suhan777 to line8010]
+[11:46:41] [Server thread/INFO]: suhan777 issued server command: /tp line8010
+[11:46:41] [Server thread/INFO]: [suhan777: Teleported suhan777 to line8010]
+[11:46:42] [Server thread/INFO]: suhan777 issued server command: /
+[11:46:42] [Server thread/INFO]: suhan777 issued server command: /
+[11:46:45] [Server thread/INFO]: suhan777 issued server command: /tp line8010
+[11:46:45] [Server thread/INFO]: [suhan777: Teleported suhan777 to line8010]
+[11:46:45] [Server thread/WARN]: suhan777 moved too quickly! 111.96298688793951,-0.4810450340260388,-13.460311402042919
+[11:46:45] [Server thread/WARN]: suhan777 moved too quickly! 111.96298688793951,-0.4810450340260388,-13.460311402042919
+[11:46:45] [Server thread/WARN]: suhan777 moved too quickly! 111.96298688793951,-0.4810450340260388,-13.460311402042919
+[11:46:46] [Server thread/INFO]: suhan777 issued server command: /tp line8010
+[11:46:46] [Server thread/INFO]: [suhan777: Teleported suhan777 to line8010]
+[11:46:46] [Server thread/INFO]: suhan777 issued server command: /tp line8010
+[11:46:46] [Server thread/INFO]: [suhan777: Teleported suhan777 to line8010]
+[11:46:46] [Server thread/WARN]: suhan777 moved too quickly! 13.35096768988838,-0.05231599026131306,1.1785718473590876
+[11:46:47] [Server thread/INFO]: suhan777 issued server command: /tp line8010
+[11:46:47] [Server thread/INFO]: [suhan777: Teleported suhan777 to line8010]
+[11:46:47] [Server thread/WARN]: suhan777 moved too quickly! 13.292022312355813,0.7067662392804337,1.515430504493878
+[11:46:47] [Server thread/INFO]: suhan777 issued server command: /tp line8010
+[11:46:47] [Server thread/INFO]: [suhan777: Teleported suhan777 to line8010]
+[11:46:48] [Server thread/INFO]: suhan777 issued server command: /tp line8010
+[11:46:48] [Server thread/INFO]: [suhan777: Teleported suhan777 to line8010]
+[11:46:48] [Server thread/WARN]: suhan777 moved too quickly! -4.463905799447366,1.2036680723104567,14.366685817775597
+[11:46:48] [Server thread/INFO]: suhan777 issued server command: /tp line8010
+[11:46:48] [Server thread/INFO]: [suhan777: Teleported suhan777 to line8010]
+[11:46:48] [Server thread/WARN]: suhan777 moved too quickly! -3.9619335593095584,0.6757376442603302,11.039353455145331
+[11:46:48] [Server thread/INFO]: suhan777 issued server command: /tp line8010
+[11:46:48] [Server thread/INFO]: [suhan777: Teleported suhan777 to line8010]
+[11:46:50] [Server thread/INFO]: suhan777 issued server command: /tp line8010
+[11:46:50] [Server thread/INFO]: [suhan777: Teleported suhan777 to line8010]
+[11:46:50] [Server thread/WARN]: suhan777 moved too quickly! 3.4856526292834893,-2.0461338112945953,34.776819873097764
+[11:46:50] [Server thread/WARN]: suhan777 moved too quickly! 3.4856526292834893,-2.0461338112945953,34.776819873097764
+[11:46:50] [Server thread/INFO]: suhan777 issued server command: /tp line8010
+[11:46:50] [Server thread/INFO]: [suhan777: Teleported suhan777 to line8010]
+[11:46:50] [Server thread/WARN]: suhan777 moved too quickly! 11.69670572526221,1.1450306835963104,-7.843313373686229
+[11:46:51] [Server thread/INFO]: suhan777 issued server command: /tp line8010
+[11:46:51] [Server thread/INFO]: [suhan777: Teleported suhan777 to line8010]
+[11:46:51] [Server thread/INFO]: suhan777 issued server command: /tp line8010
+[11:46:51] [Server thread/INFO]: [suhan777: Teleported suhan777 to line8010]
+[11:46:51] [Server thread/WARN]: suhan777 moved too quickly! 6.313267210217763,0.38749138031534613,-11.847468560313104
+[11:46:51] [Server thread/INFO]: suhan777 issued server command: /tp line8010
+[11:46:51] [Server thread/INFO]: [suhan777: Teleported suhan777 to line8010]
+[11:46:51] [Server thread/WARN]: suhan777 moved too quickly! 4.336681276142251,-0.006338440763720143,-9.122010682756638
+[11:46:51] [Server thread/WARN]: Skipping Entity with id minecraft:player
+[11:46:51] [Server thread/WARN]: Skipping Entity with id minecraft:player
+[11:46:52] [Server thread/INFO]: suhan777 issued server command: /tp line8010
+[11:46:52] [Server thread/INFO]: [suhan777: Teleported suhan777 to line8010]
+[11:46:52] [Server thread/WARN]: suhan777 moved too quickly! 5.933323175243096,-0.5579467931289059,-13.98089616871772
+[11:46:52] [Server thread/INFO]: suhan777 issued server command: /tp line8010
+[11:46:52] [Server thread/INFO]: [suhan777: Teleported suhan777 to line8010]
+[11:46:52] [Server thread/WARN]: suhan777 moved too quickly! 4.235127261527403,-0.988498064817783,-12.838742576477394
+[11:46:53] [Server thread/INFO]: suhan777 issued server command: /tp line8010
+[11:46:53] [Server thread/INFO]: [suhan777: Teleported suhan777 to line8010]
+[11:46:53] [Server thread/WARN]: suhan777 moved too quickly! 3.257169871125427,-1.2090302400690973,-13.134187321341955
+[11:46:53] [Server thread/INFO]: suhan777 issued server command: /tp line8010
+[11:46:53] [Server thread/INFO]: [suhan777: Teleported suhan777 to line8010]
+[11:46:53] [Server thread/INFO]: suhan777 issued server command: /tp line8010
+[11:46:53] [Server thread/INFO]: [suhan777: Teleported suhan777 to line8010]
+[11:46:53] [Server thread/WARN]: suhan777 moved too quickly! -2.609755323683032,-0.4481459758025821,-11.33594020622711
+[11:46:54] [Server thread/INFO]: suhan777 issued server command: /
+[11:46:55] [Server thread/INFO]: suhan777 issued server command: /
+[11:46:55] [Server thread/INFO]: suhan777 issued server command: /
+[11:46:56] [Server thread/INFO]: suhan777 issued server command: /
+[11:46:56] [Server thread/INFO]: suhan777 issued server command: /\
+[11:46:58] [Server thread/INFO]: suhan777 issued server command: /tp line8010
+[11:46:58] [Server thread/INFO]: [suhan777: Teleported suhan777 to line8010]
+[11:46:58] [Server thread/WARN]: suhan777 moved too quickly! -61.939789137107226,-7.522410138734934,-9.526030597564194
+[11:46:58] [Server thread/WARN]: suhan777 moved too quickly! -61.939789137107226,-7.522410138734934,-9.526030597564194
+[11:46:58] [Server thread/WARN]: suhan777 moved too quickly! -61.939789137107226,-7.522410138734934,-9.526030597564194
+[11:46:58] [Server thread/WARN]: suhan777 moved too quickly! -61.939789137107226,-7.522410138734934,-9.526030597564194
+[11:46:58] [Server thread/INFO]: suhan777 issued server command: /tp line8010
+[11:46:58] [Server thread/INFO]: [suhan777: Teleported suhan777 to line8010]
+[11:46:58] [Server thread/WARN]: suhan777 moved too quickly! 0.0,-10.722248667987472,0.0
+[11:46:59] [Server thread/INFO]: suhan777 issued server command: /tp line8010
+[11:46:59] [Server thread/INFO]: [suhan777: Teleported suhan777 to line8010]
+[11:46:59] [Server thread/WARN]: suhan777 moved too quickly! 0.0,-11.426145334612684,0.0
+[11:46:59] [Server thread/INFO]: suhan777 issued server command: /tp line8010
+[11:46:59] [Server thread/INFO]: [suhan777: Teleported suhan777 to line8010]
+[11:46:59] [Server thread/WARN]: suhan777 moved too quickly! 0.001401715014445415,-17.710509753516718,-0.07939219275044529
+[11:47:00] [Server thread/INFO]: suhan777 issued server command: /tp line8010
+[11:47:00] [Server thread/INFO]: [suhan777: Teleported suhan777 to line8010]
+[11:47:00] [Server thread/INFO]: suhan777 issued server command: /tp line8010
+[11:47:00] [Server thread/INFO]: [suhan777: Teleported suhan777 to line8010]
+[11:47:00] [Server thread/WARN]: suhan777 moved too quickly! 0.004509864056906565,-20.095774620849568,-1.001484888408898
+[11:47:01] [Server thread/INFO]: suhan777 issued server command: /tp line8010
+[11:47:01] [Server thread/INFO]: [suhan777: Teleported suhan777 to line8010]
+[11:47:02] [Server thread/INFO]: suhan777 fell out of the world
+[11:47:03] [Server thread/INFO]: line8010 fell out of the world
+[11:47:14] [Server thread/INFO]: suhan777 issued server command: /kll @e
+[11:47:15] [Server thread/INFO]: suhan777 issued server command: /kll @e
+[11:47:16] [Server thread/INFO]: suhan777 issued server command: /kll @e
+[11:47:23] [Server thread/WARN]: Skipping Entity with id minecraft:player
+[11:47:23] [Server thread/WARN]: Skipping Entity with id minecraft:player
+[11:47:23] [Server thread/WARN]: Skipping Entity with id minecraft:player
+[11:47:23] [Server thread/WARN]: Skipping Entity with id minecraft:player
+[11:47:23] [Server thread/WARN]: Skipping Entity with id minecraft:player
+[11:47:23] [Server thread/WARN]: Skipping Entity with id minecraft:player
+[11:47:23] [Server thread/WARN]: Skipping Entity with id minecraft:player
+[11:47:23] [Server thread/WARN]: Skipping Entity with id minecraft:player
+[11:47:23] [Server thread/WARN]: Skipping Entity with id minecraft:player
+[11:47:23] [Server thread/WARN]: Skipping Entity with id minecraft:player
+[11:47:23] [Server thread/WARN]: Skipping Entity with id minecraft:player
+[11:47:24] [Server thread/WARN]: Skipping Entity with id minecraft:player
+[11:47:24] [Server thread/WARN]: Skipping Entity with id minecraft:player
+[11:47:24] [Server thread/WARN]: Skipping Entity with id minecraft:player
+[11:47:24] [Server thread/WARN]: Skipping Entity with id minecraft:player
+[11:47:24] [Server thread/WARN]: Skipping Entity with id minecraft:player
+[11:47:24] [Server thread/WARN]: Skipping Entity with id minecraft:player
+[11:47:24] [Server thread/WARN]: Skipping Entity with id minecraft:player
+[11:47:24] [Server thread/WARN]: Skipping Entity with id minecraft:player
+[11:47:24] [Server thread/WARN]: Skipping Entity with id minecraft:player
+[11:47:24] [Server thread/WARN]: Skipping Entity with id minecraft:player
+[11:47:24] [Server thread/WARN]: Skipping Entity with id minecraft:player
+[11:47:24] [Server thread/WARN]: Skipping Entity with id minecraft:player
+[11:47:24] [Server thread/WARN]: Skipping Entity with id minecraft:player
+[11:47:24] [Server thread/WARN]: Skipping Entity with id minecraft:player
+[11:47:24] [Server thread/WARN]: Skipping Entity with id minecraft:player
+[11:47:26] [Server thread/INFO]: line8010 issued server command: /kill @a
+[11:47:26] [Server thread/INFO]: RuneNyang_ was killed
+[11:47:26] [Server thread/INFO]: suhan777 was killed
+[11:47:26] [Server thread/INFO]: line8010 was killed
+[11:47:26] [Server thread/INFO]: [line8010: Killed 3 entities]
+[11:47:33] [Server thread/INFO]: line8010 issued server command: /kill @e
+[11:47:33] [Server thread/INFO]: RuneNyang_ was killed
+[11:47:33] [Server thread/INFO]: suhan777 was killed
+[11:47:33] [Server thread/INFO]: line8010 was killed
+[11:47:33] [Server thread/INFO]: [line8010: Killed 309 entities]
+[11:48:34] [Server thread/INFO]: RuneNyang_ issued server command: /time set 1000
+[11:48:34] [Server thread/INFO]: [RuneNyang_: Set the time to 1000]
+[11:48:43] [Server thread/INFO]: line8010 issued server command: /tp ~ ~-4 ~
+[11:48:43] [Server thread/INFO]: [line8010: Teleported line8010 to -16.300000, -66.378565, -13.700000]
+[11:50:20] [Server thread/INFO]: RuneNyang_ issued server command: /execute as @a[nbt={SelectedItem:{id:"minecraft:stick",tag:{display:{Name:'[{"text":"드래곤 막대기","italic":false}]'}}}}] at @s run execute as @s run summon minecraft:ender_dragon ~ ~ ~ {DragonPhase:0,Passengers:[{id:"minecraft:player",NoAI:1b,NoGravity:1b,Invu
+[11:51:36] [Server thread/INFO]: RuneNyang_ issued server command: /give @p minecraft:trident{display:{Name:"{\"text\":\"번개검\",\"italic\":false}"},Enchantments:[{id:"minecraft:channeling",lvl:1}],HideFlags:1}
+[11:51:36] [Server thread/INFO]: [RuneNyang_: Gave 1 [번개검] to RuneNyang_]
+[11:52:39] [Server thread/INFO]: RuneNyang_ issued server command: /give @p minecraft:trident{display:{Name:"{\"text\":\"fuckyou\",\"italic\":false}"},Enchantments:[{id:"minecraft:channeling",lvl:10}],HideFlags:1}
+[11:52:39] [Server thread/INFO]: [RuneNyang_: Gave 1 [fuckyou] to RuneNyang_]
+[11:52:40] [Server thread/INFO]: suhan777 issued server command: /kill @e[type= minecraft:chicken]
+[11:52:40] [Server thread/INFO]: [suhan777: Killed 3 entities]
+[11:53:08] [Async Chat Thread - #3/INFO]: <line8010> e
+[11:54:01] [Server thread/INFO]: suhan777 issued server command: /tag @e[type= minecraft:chicken] add a
+[11:54:01] [Server thread/INFO]: [suhan777: Added tag 'a' to Chicken]
+[11:54:15] [Server thread/INFO]: RuneNyang_ issued server command: /give @a minecraft:command_block
+[11:54:15] [Server thread/INFO]: [RuneNyang_: Gave 1 [Command Block] to 3]
+[11:54:41] [Server thread/INFO]: suhan777 issued server command: /kill @e[type= minecraft:ender_dragon]
+[11:54:41] [Server thread/INFO]: [suhan777: Killed 3 entities]
+[11:54:47] [Server thread/INFO]: suhan777 issued server command: /kill @e[type= minecraft:ender_dragon]
+[11:55:20] [Server thread/INFO]: suhan777 issued server command: /effect give @e[tag= a] minecraft:health_boost infinite 60
+[11:55:20] [Server thread/INFO]: [suhan777: Applied effect Health Boost to Chicken]
+[11:55:26] [Server thread/INFO]: suhan777 issued server command: /effect give @e[tag= a] minecraft:health_boost infinite 60 true
+[11:55:26] [Server thread/INFO]: [suhan777: Applied effect Health Boost to Chicken]
+[11:55:40] [Server thread/INFO]: suhan777 issued server command: /effect give @e[tag= a] minecraft:regeneration 20 255
+[11:55:40] [Server thread/INFO]: [suhan777: Applied effect Regeneration to Chicken]
+[11:56:23] [Server thread/INFO]: line8010 issued server command: /give @p minecraft:trident{display:{Name:"{\"text\":\"번개검\",\"italic\":false}"},Enchantments:[{id:"minecraft:channeling",lvl:1}],HideFlags:1}
+[11:56:23] [Server thread/INFO]: [line8010: Gave 1 [번개검] to line8010]
+[11:56:41] [Server thread/INFO]: line8010 issued server command: /give @p minecraft:trident{display:{Name:"{\"text\":\"번개검\",\"italic\":false}"},Enchantments:[{id:"minecraft:channeling",lvl:1}],HideFlags:1}
+[11:56:41] [Server thread/INFO]: [line8010: Gave 1 [번개검] to line8010]
+[11:57:04] [Server thread/INFO]: RuneNyang_ issued server command: /give @s netherite_sword{display:{Name:'{"text":"No 100% Attacker Plus","color":"dark_aqua","bold":true}'},Unbreakable:1b,Enchantments:[{id:"minecraft:protection",lvl:255s},{id:"minecraft:fire_protection",lvl:255s},{id:"minecraft:feather_falling",lvl:255s}
+[11:58:31] [Server thread/INFO]: suhan777 issued server command: /time set day
+[11:58:31] [Server thread/INFO]: [suhan777: Set the time to 1000]
+[11:58:38] [Server thread/INFO]: RuneNyang_ issued server command: /tp line8010
+[11:58:38] [Server thread/INFO]: [RuneNyang_: Teleported RuneNyang_ to line8010]
+[12:03:13] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[12:04:15] [Server thread/INFO]: suhan777 issued server command: /effect give @e[tag= a] minecraft:regeneration 20 255
+[12:04:41] [Server thread/INFO]: RuneNyang_ lost connection: Disconnected
+[12:04:41] [Server thread/INFO]: RuneNyang_ left the game
+[12:05:03] [User Authenticator #2/INFO]: UUID of player RuneNyang_ is 1c1ef11b-ae1f-4618-b7f1-37d1679a7a6b
+[12:05:03] [Server thread/INFO]: RuneNyang_ joined the game
+[12:05:03] [Server thread/INFO]: RuneNyang_[/121.136.48.57:52634] logged in with entity id 70378 at ([happy]40.947135276245916, -49.10102432331853, 1.913033110415256)
+[12:05:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5008ms or 100 ticks behind
+[12:06:06] [Server thread/INFO]: suhan777 issued server command: /kill @e[type= minecraft:ender_dragon]
+[12:06:06] [Server thread/INFO]: [suhan777: Killed Ender Dragon]
+[12:07:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 45446ms or 908 ticks behind
+[12:08:01] [Server thread/INFO]: suhan777 issued server command: /kill @e
+[12:08:01] [Server thread/INFO]: RuneNyang_ was killed
+[12:08:01] [Server thread/INFO]: suhan777 was killed
+[12:08:01] [Server thread/INFO]: line8010 was killed
+[12:08:01] [Server thread/INFO]: [suhan777: Killed 2654 entities]
+[12:08:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22375ms or 447 ticks behind
+[12:08:16] [Server thread/INFO]: suhan777 issued server command: /kill @e
+[12:08:16] [Server thread/INFO]: suhan777 was killed
+[12:08:16] [Server thread/INFO]: RuneNyang_ was killed
+[12:08:16] [Server thread/INFO]: line8010 was killed
+[12:08:16] [Server thread/INFO]: [suhan777: Killed 1340 entities]
+[12:08:26] [Server thread/INFO]: RuneNyang_ issued server command: /clear
+[12:08:26] [Server thread/INFO]: [RuneNyang_: Removed 56 item(s) from player RuneNyang_]
+[12:08:28] [Server thread/INFO]: RuneNyang_ issued server command: /clear
+[12:08:28] [Server thread/INFO]: [RuneNyang_: Removed 14 item(s) from player RuneNyang_]
+[12:08:29] [Server thread/INFO]: RuneNyang_ issued server command: /clear
+[12:08:29] [Server thread/INFO]: [RuneNyang_: Removed 21 item(s) from player RuneNyang_]
+[12:08:31] [Server thread/INFO]: RuneNyang_ issued server command: /clear
+[12:08:31] [Server thread/INFO]: [RuneNyang_: Removed 14 item(s) from player RuneNyang_]
+[12:08:32] [Server thread/INFO]: RuneNyang_ issued server command: /clear
+[12:08:32] [Server thread/INFO]: [RuneNyang_: Removed 9 item(s) from player RuneNyang_]
+[12:08:32] [Server thread/INFO]: RuneNyang_ issued server command: /clear
+[12:08:32] [Server thread/INFO]: [RuneNyang_: Removed 7 item(s) from player RuneNyang_]
+[12:08:33] [Server thread/INFO]: RuneNyang_ issued server command: /clear
+[12:08:33] [Server thread/INFO]: [RuneNyang_: Removed 10 item(s) from player RuneNyang_]
+[12:08:34] [Server thread/INFO]: RuneNyang_ issued server command: /clear
+[12:08:34] [Server thread/INFO]: [RuneNyang_: Removed 10 item(s) from player RuneNyang_]
+[12:08:34] [Server thread/INFO]: RuneNyang_ issued server command: /clear
+[12:08:34] [Server thread/INFO]: [RuneNyang_: Removed 11 item(s) from player RuneNyang_]
+[12:09:49] [Server thread/INFO]: suhan777 issued server command: /tp RuneNyang_
+[12:09:49] [Server thread/INFO]: [suhan777: Teleported suhan777 to RuneNyang_]
+[12:09:49] [Server thread/WARN]: suhan777 moved too quickly! -14.200646940034247,-19.065782146646157,78.12576538946954
+[12:10:00] [Server thread/INFO]: line8010 lost connection: Disconnected
+[12:10:00] [Server thread/INFO]: line8010 left the game
+[12:10:11] [Server thread/INFO]: suhan777 issued server command: /fill ~ ~ ~ ~ ~ ~ minecraft:end_portal
+[12:10:11] [Server thread/INFO]: [suhan777: Successfully filled 1 block(s)]
+[12:10:11] [Server thread/INFO]: suhan777 has made the advancement [The End?]
+[12:10:11] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[12:10:11] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[12:10:12] [Server thread/INFO]: RuneNyang_ has made the advancement [The End?]
+[12:11:04] [Server thread/INFO]: suhan777 issued server command: /tp RuneNyang_
+[12:11:04] [Server thread/INFO]: [suhan777: Teleported suhan777 to RuneNyang_]
+[12:11:04] [Server thread/WARN]: suhan777 moved too quickly! 83.73723793614478,-3.32481955336425,-77.41505722713654
+[12:11:29] [Server thread/INFO]: suhan777 issued server command: /fill ~ ~ ~ ~ ~ ~ minecraft:end_portal
+[12:11:29] [Server thread/INFO]: [suhan777: Successfully filled 1 block(s)]
+[12:12:02] [Server thread/INFO]: RuneNyang_ issued server command: /tp s
+[12:12:02] [Server thread/INFO]: suhan777 issued server command: /tp RuneNyang_ suhan777
+[12:12:02] [Server thread/INFO]: [suhan777: Teleported RuneNyang_ to suhan777]
+[12:12:21] [Server thread/INFO]: RuneNyang_ issued server command: /tp suhan777
+[12:12:21] [Server thread/INFO]: [RuneNyang_: Teleported RuneNyang_ to suhan777]
+[12:13:02] [Server thread/INFO]: suhan777 issued server command: /tp RuneNyang_ suhan777
+[12:13:02] [Server thread/INFO]: [suhan777: Teleported RuneNyang_ to suhan777]
+[12:13:15] [Server thread/INFO]: suhan777 issued server command: /tp RuneNyang_ suhan777
+[12:13:15] [Server thread/INFO]: [suhan777: Teleported RuneNyang_ to suhan777]
+[12:13:18] [Server thread/INFO]: suhan777 issued server command: /tp RuneNyang_ suhan777
+[12:13:18] [Server thread/INFO]: [suhan777: Teleported RuneNyang_ to suhan777]
+[12:13:19] [Server thread/INFO]: suhan777 issued server command: /tp RuneNyang_ suhan777
+[12:13:19] [Server thread/INFO]: [suhan777: Teleported RuneNyang_ to suhan777]
+[12:13:20] [Server thread/INFO]: suhan777 issued server command: /tp RuneNyang_ suhan777d
+[12:13:22] [Server thread/INFO]: suhan777 issued server command: /tp RuneNyang_ suhan777
+[12:13:22] [Server thread/INFO]: [suhan777: Teleported RuneNyang_ to suhan777]
+[12:13:24] [Server thread/INFO]: suhan777 issued server command: /tp RuneNyang_ suhan777
+[12:13:24] [Server thread/INFO]: [suhan777: Teleported RuneNyang_ to suhan777]
+[12:13:27] [Server thread/INFO]: suhan777 issued server command: /tp RuneNyang_ suhan777
+[12:13:27] [Server thread/INFO]: [suhan777: Teleported RuneNyang_ to suhan777]
+[12:13:27] [Server thread/WARN]: RuneNyang_ moved too quickly! -25.64747178656128,-3.2055574130912845,-8.905817852328553
+[12:13:34] [Server thread/INFO]: suhan777 issued server command: /tp RuneNyang_
+[12:13:34] [Server thread/INFO]: [suhan777: Teleported suhan777 to RuneNyang_]
+[12:13:35] [Server thread/INFO]: RuneNyang_ issued server command: /effect give @s minecraft:night_vision 99999
+[12:13:35] [Server thread/INFO]: [RuneNyang_: Applied effect Night Vision to RuneNyang_]
+[12:13:46] [Server thread/INFO]: suhan777 issued server command: /time set day
+[12:13:46] [Server thread/INFO]: [suhan777: Set the time to 1000]
+[12:13:59] [Server thread/INFO]: RuneNyang_ issued server command: /effect clear @s minecraft:night_vision 99999
+[12:14:02] [Server thread/INFO]: RuneNyang_ issued server command: /effect clear @s minecraft:night_vision
+[12:14:02] [Server thread/INFO]: [RuneNyang_: Removed effect Night Vision from RuneNyang_]
+[12:14:34] [Server thread/INFO]: RuneNyang_ issued server command: /tp suhan777
+[12:14:34] [Server thread/INFO]: [RuneNyang_: Teleported RuneNyang_ to suhan777]
+[12:14:34] [Server thread/WARN]: RuneNyang_ moved too quickly! 16.76560619766901,-2.954761282895454,-20.54029440201694
+[12:15:50] [Server thread/INFO]: suhan777 issued server command: /kill @e[type= minecraft:chicken
+[12:15:52] [Server thread/INFO]: suhan777 issued server command: /kill @e[type= minecraft:chicken]
+[12:15:52] [Server thread/INFO]: [suhan777: Killed 587 entities]
+[12:15:57] [Server thread/INFO]: suhan777 issued server command: /kill @e[type= minecraft:chicken]
+[12:15:57] [Server thread/INFO]: [suhan777: Killed 99 entities]
+[12:15:58] [Server thread/INFO]: suhan777 issued server command: /kill @e[type= minecraft:chicken]
+[12:15:58] [Server thread/INFO]: [suhan777: Killed 23 entities]
+[12:15:58] [Server thread/INFO]: suhan777 issued server command: /kill @e[type= minecraft:chicken]
+[12:15:58] [Server thread/INFO]: [suhan777: Killed 11 entities]
+[12:15:59] [Server thread/INFO]: suhan777 issued server command: /kill @e[type= minecraft:chicken]
+[12:15:59] [Server thread/INFO]: [suhan777: Killed 9 entities]
+[12:15:59] [Server thread/INFO]: suhan777 issued server command: /kill @e[type= minecraft:chicken]
+[12:15:59] [Server thread/INFO]: [suhan777: Killed 9 entities]
+[12:16:21] [Server thread/INFO]: suhan777 issued server command: /clear
+[12:16:21] [Server thread/INFO]: [suhan777: Removed 546 item(s) from player suhan777]
+[12:17:12] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:fireball
+[12:17:12] [Server thread/INFO]: [suhan777: Summoned new Fireball]
+[12:17:20] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:fireball
+[12:17:20] [Server thread/INFO]: [suhan777: Summoned new Fireball]
+[12:17:23] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:fireball
+[12:17:23] [Server thread/INFO]: [suhan777: Summoned new Fireball]
+[12:17:29] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:fireball
+[12:17:29] [Server thread/INFO]: [suhan777: Summoned new Fireball]
+[12:17:37] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:fireball
+[12:17:37] [Server thread/INFO]: [suhan777: Summoned new Fireball]
+[12:17:54] [Async Chat Thread - #5/INFO]: <suhan777> summon fire_ball
+[12:17:58] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:fireball
+[12:17:58] [Server thread/INFO]: [suhan777: Summoned new Fireball]
+[12:18:02] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:fireball
+[12:18:02] [Server thread/INFO]: [suhan777: Summoned new Fireball]
+[12:18:05] [Server thread/INFO]: suhan777 issued server command: /
+[12:18:08] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:fireball
+[12:18:08] [Server thread/INFO]: [suhan777: Summoned new Fireball]
+[12:18:09] [Server thread/INFO]: suhan777 issued server command: /
+[12:18:10] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:fireball
+[12:18:10] [Server thread/INFO]: [suhan777: Summoned new Fireball]
+[12:18:11] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:fireball
+[12:18:11] [Server thread/INFO]: [suhan777: Summoned new Fireball]
+[12:18:11] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:fireball
+[12:18:11] [Server thread/INFO]: [suhan777: Summoned new Fireball]
+[12:18:12] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:fireball
+[12:18:12] [Server thread/INFO]: [suhan777: Summoned new Fireball]
+[12:18:12] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:fireball
+[12:18:12] [Server thread/INFO]: [suhan777: Summoned new Fireball]
+[12:18:12] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:fireball
+[12:18:12] [Server thread/INFO]: [suhan777: Summoned new Fireball]
+[12:18:13] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:fireball
+[12:18:13] [Server thread/INFO]: [suhan777: Summoned new Fireball]
+[12:18:13] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:fireball
+[12:18:13] [Server thread/INFO]: [suhan777: Summoned new Fireball]
+[12:18:14] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:fireball
+[12:18:14] [Server thread/INFO]: [suhan777: Summoned new Fireball]
+[12:18:14] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:fireball
+[12:18:14] [Server thread/INFO]: [suhan777: Summoned new Fireball]
+[12:18:14] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:fireball
+[12:18:14] [Server thread/INFO]: [suhan777: Summoned new Fireball]
+[12:18:15] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:fireball
+[12:18:15] [Server thread/INFO]: [suhan777: Summoned new Fireball]
+[12:18:15] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:fireball
+[12:18:15] [Server thread/INFO]: [suhan777: Summoned new Fireball]
+[12:18:15] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:fireball
+[12:18:15] [Server thread/INFO]: [suhan777: Summoned new Fireball]
+[12:18:16] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:fireball
+[12:18:16] [Server thread/INFO]: [suhan777: Summoned new Fireball]
+[12:18:16] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:fireball
+[12:18:16] [Server thread/INFO]: [suhan777: Summoned new Fireball]
+[12:18:16] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:fireball
+[12:18:16] [Server thread/INFO]: [suhan777: Summoned new Fireball]
+[12:18:17] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:fireball
+[12:18:17] [Server thread/INFO]: [suhan777: Summoned new Fireball]
+[12:18:17] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:fireball
+[12:18:17] [Server thread/INFO]: [suhan777: Summoned new Fireball]
+[12:18:17] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:fireball
+[12:18:17] [Server thread/INFO]: [suhan777: Summoned new Fireball]
+[12:18:18] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:fireball
+[12:18:18] [Server thread/INFO]: [suhan777: Summoned new Fireball]
+[12:18:18] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:fireball
+[12:18:18] [Server thread/INFO]: [suhan777: Summoned new Fireball]
+[12:18:19] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:fireball
+[12:18:19] [Server thread/INFO]: [suhan777: Summoned new Fireball]
+[12:18:19] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:fireball
+[12:18:19] [Server thread/INFO]: [suhan777: Summoned new Fireball]
+[12:18:20] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:fireball
+[12:18:20] [Server thread/INFO]: [suhan777: Summoned new Fireball]
+[12:18:27] [Async Chat Thread - #6/INFO]: <RuneNyang_> 나 통화중
+[12:18:37] [Server thread/INFO]: suhan777 issued server command: /give @s minecraft:command_block
+[12:18:37] [Server thread/INFO]: [suhan777: Gave 1 [Command Block] to suhan777]
+[12:19:21] [Server thread/INFO]: RuneNyang_ issued server command: /summon minecraft:fireball
+[12:19:21] [Server thread/INFO]: [RuneNyang_: Summoned new Fireball]
+[12:19:24] [Server thread/INFO]: RuneNyang_ issued server command: /summon minecraft:fireball
+[12:19:24] [Server thread/INFO]: [RuneNyang_: Summoned new Fireball]
+[12:20:42] [Server thread/INFO]: suhan777 issued server command: /clear
+[12:20:42] [Server thread/INFO]: [suhan777: Removed 119 item(s) from player suhan777]
+[12:21:55] [Async Chat Thread - #7/INFO]: <RuneNyang_> minjun.ccc
+[12:22:03] [Async Chat Thread - #8/INFO]: <RuneNyang_> minjunzone
+[12:23:53] [Server thread/INFO]: suhan777 lost connection: Disconnected
+[12:23:53] [Server thread/INFO]: suhan777 left the game
+[12:24:10] [Server thread/INFO]: RuneNyang_ issued server command: /time set 1000
+[12:24:10] [Server thread/INFO]: [RuneNyang_: Set the time to 1000]
+[12:26:17] [User Authenticator #3/INFO]: UUID of player suhan777 is b3519705-7f88-4704-abda-524b331122f7
+[12:26:17] [Server thread/INFO]: suhan777 joined the game
+[12:26:17] [Server thread/INFO]: suhan777[/121.137.147.177:49827] logged in with entity id 166982 at ([happy]34.457730204103655, -60.0, -14.49295804240994)
+[12:26:40] [Server thread/INFO]: suhan777 lost connection: Disconnected
+[12:26:40] [Server thread/INFO]: suhan777 left the game
+[12:26:46] [Server thread/INFO]: RuneNyang_ issued server command: /kill @e
+[12:26:46] [Server thread/INFO]: RuneNyang_ was killed
+[12:26:46] [Server thread/INFO]: [RuneNyang_: Killed 395 entities]
+[12:28:51] [User Authenticator #4/INFO]: UUID of player suhan777 is b3519705-7f88-4704-abda-524b331122f7
+[12:28:51] [Server thread/INFO]: suhan777 joined the game
+[12:28:51] [Server thread/INFO]: suhan777[/121.137.147.177:36275] logged in with entity id 167601 at ([happy]34.457730204103655, -60.0, -14.49295804240994)
+[12:28:53] [Server thread/INFO]: RuneNyang_ issued server command: /tp suhan777
+[12:28:53] [Server thread/INFO]: [RuneNyang_: Teleported RuneNyang_ to suhan777]
+[12:28:53] [Server thread/WARN]: RuneNyang_ moved too quickly! 108.86162592946367,-0.9989084300789912,-63.81788833203279
+[12:28:53] [Server thread/WARN]: RuneNyang_ moved too quickly! 108.86162592946367,-0.9989084300789912,-63.81788833203279
+[12:30:12] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:ender_pearl
+[12:30:12] [Server thread/INFO]: [suhan777: Summoned new Thrown Ender Pearl]
+[12:30:14] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:ender_pearl
+[12:30:14] [Server thread/INFO]: [suhan777: Summoned new Thrown Ender Pearl]
+[12:30:19] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:endermite
+[12:30:19] [Server thread/INFO]: [suhan777: Summoned new Endermite]
+[12:31:09] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:eye_of_ender
+[12:31:09] [Server thread/INFO]: [suhan777: Summoned new Eye of Ender]
+[12:31:12] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:eye_of_ender
+[12:31:12] [Server thread/INFO]: [suhan777: Summoned new Eye of Ender]
+[12:31:16] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:eye_of_ender
+[12:31:16] [Server thread/INFO]: [suhan777: Summoned new Eye of Ender]
+[12:31:26] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:eye_of_ender
+[12:31:26] [Server thread/INFO]: [suhan777: Summoned new Eye of Ender]
+[12:31:26] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:eye_of_ender
+[12:31:26] [Server thread/INFO]: [suhan777: Summoned new Eye of Ender]
+[12:31:26] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:eye_of_ender
+[12:31:26] [Server thread/INFO]: [suhan777: Summoned new Eye of Ender]
+[12:31:27] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:eye_of_ender
+[12:31:27] [Server thread/INFO]: [suhan777: Summoned new Eye of Ender]
+[12:31:27] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:eye_of_ender
+[12:31:27] [Server thread/INFO]: [suhan777: Summoned new Eye of Ender]
+[12:31:28] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:eye_of_ender
+[12:31:28] [Server thread/INFO]: [suhan777: Summoned new Eye of Ender]
+[12:31:28] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:eye_of_ender
+[12:31:28] [Server thread/INFO]: [suhan777: Summoned new Eye of Ender]
+[12:31:28] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:eye_of_ender
+[12:31:28] [Server thread/INFO]: [suhan777: Summoned new Eye of Ender]
+[12:31:29] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:eye_of_ender
+[12:31:29] [Server thread/INFO]: [suhan777: Summoned new Eye of Ender]
+[12:31:35] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:eye_of_ender
+[12:31:35] [Server thread/INFO]: [suhan777: Summoned new Eye of Ender]
+[12:31:40] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:eye_of_ender
+[12:31:40] [Server thread/INFO]: [suhan777: Summoned new Eye of Ender]
+[12:31:40] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:eye_of_ender
+[12:31:40] [Server thread/INFO]: [suhan777: Summoned new Eye of Ender]
+[12:31:41] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:eye_of_ender
+[12:31:41] [Server thread/INFO]: [suhan777: Summoned new Eye of Ender]
+[12:31:41] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:eye_of_ender
+[12:31:41] [Server thread/INFO]: [suhan777: Summoned new Eye of Ender]
+[12:31:42] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:eye_of_ender
+[12:31:42] [Server thread/INFO]: [suhan777: Summoned new Eye of Ender]
+[12:31:42] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:eye_of_ender
+[12:31:42] [Server thread/INFO]: [suhan777: Summoned new Eye of Ender]
+[12:31:43] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:eye_of_ender
+[12:31:43] [Server thread/INFO]: [suhan777: Summoned new Eye of Ender]
+[12:31:43] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:eye_of_ender
+[12:31:43] [Server thread/INFO]: [suhan777: Summoned new Eye of Ender]
+[12:31:43] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:eye_of_ender
+[12:31:43] [Server thread/INFO]: [suhan777: Summoned new Eye of Ender]
+[12:31:44] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:endermite
+[12:31:44] [Server thread/INFO]: [suhan777: Summoned new Endermite]
+[12:31:57] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:endermite
+[12:31:57] [Server thread/INFO]: [suhan777: Summoned new Endermite]
+[12:31:57] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:endermite
+[12:31:57] [Server thread/INFO]: [suhan777: Summoned new Endermite]
+[12:31:57] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:endermite
+[12:31:57] [Server thread/INFO]: [suhan777: Summoned new Endermite]
+[12:31:58] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:endermite
+[12:31:58] [Server thread/INFO]: [suhan777: Summoned new Endermite]
+[12:31:58] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:endermite
+[12:31:58] [Server thread/INFO]: [suhan777: Summoned new Endermite]
+[12:31:59] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:endermite
+[12:31:59] [Server thread/INFO]: [suhan777: Summoned new Endermite]
+[12:31:59] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:endermite
+[12:31:59] [Server thread/INFO]: [suhan777: Summoned new Endermite]
+[12:31:59] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:endermite
+[12:31:59] [Server thread/INFO]: [suhan777: Summoned new Endermite]
+[12:32:00] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:endermite
+[12:32:00] [Server thread/INFO]: [suhan777: Summoned new Endermite]
+[12:32:00] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:endermite
+[12:32:00] [Server thread/INFO]: [suhan777: Summoned new Endermite]
+[12:32:01] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:endermite
+[12:32:01] [Server thread/INFO]: [suhan777: Summoned new Endermite]
+[12:32:01] [Server thread/INFO]: suhan777 issued server command: /summon minecraft:endermite
+[12:32:01] [Server thread/INFO]: [suhan777: Summoned new Endermite]
+[12:33:09] [Server thread/INFO]: suhan777 issued server command: /gamemode survival
+[12:33:09] [Server thread/INFO]: [suhan777: Set own game mode to Survival Mode]
+[12:33:14] [Server thread/INFO]: suhan777 issued server command: /gamemode survival
+[12:33:19] [Server thread/INFO]: suhan777 issued server command: /gamemode creative
+[12:33:19] [Server thread/INFO]: [suhan777: Set own game mode to Creative Mode]
+[12:33:24] [Server thread/INFO]: suhan777 issued server command: /gamemode survival
+[12:33:24] [Server thread/INFO]: [suhan777: Set own game mode to Survival Mode]
+[12:34:29] [Server thread/INFO]: RuneNyang_ issued server command: /time set 1000
+[12:34:29] [Server thread/INFO]: [RuneNyang_: Set the time to 1000]
+[12:34:45] [Server thread/INFO]: suhan777 issued server command: /effect give @s minecraft:regeneration infinite 255
+[12:34:45] [Server thread/INFO]: [suhan777: Applied effect Regeneration to suhan777]
+[12:36:31] [Server thread/INFO]: RuneNyang_ issued server command: /spawnpoint
+[12:36:31] [Server thread/INFO]: [RuneNyang_: Set spawn point to -82, -60, 48 [0.0] in minecraft:overworld for RuneNyang_]
+[12:36:37] [Server thread/INFO]: RuneNyang_ issued server command: /tp suhan777
+[12:36:37] [Server thread/INFO]: [RuneNyang_: Teleported RuneNyang_ to suhan777]
+[12:36:37] [Server thread/WARN]: RuneNyang_ moved too quickly! 52.55695191999611,-3.2428260214668967,-42.21546413809715
+[12:36:40] [Server thread/WARN]: suhan777 moved too quickly! 10.744785674217331,13.144518802489017,-9.251469431258208
+[12:36:51] [Server thread/INFO]: suhan777 issued server command: /tp RuneNyang_
+[12:36:51] [Server thread/INFO]: [suhan777: Teleported suhan777 to RuneNyang_]
+[12:36:51] [Server thread/WARN]: suhan777 moved too quickly! 0.3144081397426177,8.244227659331166,13.68390324002565
+[12:38:32] [Server thread/INFO]: suhan777 lost connection: Disconnected
+[12:38:32] [Server thread/INFO]: suhan777 left the game
+[12:40:46] [User Authenticator #5/INFO]: UUID of player suhan777 is b3519705-7f88-4704-abda-524b331122f7
+[12:40:46] [Server thread/INFO]: suhan777 joined the game
+[12:40:46] [Server thread/INFO]: suhan777[/121.137.147.177:36410] logged in with entity id 168755 at ([happy]-29.517426781415733, -59.0, 7.367541522872424)
+[12:41:09] [Server thread/INFO]: suhan777 lost connection: Disconnected
+[12:41:09] [Server thread/INFO]: suhan777 left the game
+[12:44:41] [User Authenticator #6/INFO]: UUID of player suhan777 is b3519705-7f88-4704-abda-524b331122f7
+[12:44:41] [Server thread/INFO]: suhan777 joined the game
+[12:44:41] [Server thread/INFO]: suhan777[/121.137.147.177:49826] logged in with entity id 169021 at ([happy]-29.517426781415733, -59.0, 7.367541522872424)
+[12:46:23] [Server thread/INFO]: suhan777 lost connection: Disconnected
+[12:46:23] [Server thread/INFO]: suhan777 left the game
+[12:50:11] [User Authenticator #7/INFO]: UUID of player suhan777 is b3519705-7f88-4704-abda-524b331122f7
+[12:50:11] [Server thread/INFO]: suhan777 joined the game
+[12:50:11] [Server thread/INFO]: suhan777[/121.137.147.177:49850] logged in with entity id 169509 at ([happy]-29.625145053967586, -59.0, 7.539621551901643)
+[12:50:30] [Server thread/INFO]: suhan777 issued server command: /time set day
+[12:50:30] [Server thread/INFO]: [suhan777: Set the time to 1000]
+[12:50:37] [Server thread/INFO]: suhan777 issued server command: /gamemode creative
+[12:50:37] [Server thread/INFO]: [suhan777: Set own game mode to Creative Mode]
+[12:53:26] [Server thread/INFO]: suhan777 issued server command: /tp RuneNyang_ suhan777
+[12:53:26] [Server thread/INFO]: [suhan777: Teleported RuneNyang_ to suhan777]
+[12:53:26] [Server thread/WARN]: RuneNyang_ moved too quickly! 92.91106695140282,-3.6581467612366083,-9.194520743431148
+[12:58:13] [Server thread/INFO]: RuneNyang_ lost connection: Disconnected
+[12:58:13] [Server thread/INFO]: RuneNyang_ left the game
+[13:01:06] [User Authenticator #8/INFO]: UUID of player RuneNyang_ is 1c1ef11b-ae1f-4618-b7f1-37d1679a7a6b
+[13:01:06] [Server thread/INFO]: RuneNyang_ joined the game
+[13:01:06] [Server thread/INFO]: RuneNyang_[/121.136.48.57:62005] logged in with entity id 170232 at ([happy]-80.05763172236912, -59.25706839827512, 44.5637648049899)
+[13:01:42] [Server thread/INFO]: RuneNyang_ issued server command: /time set 1000
+[13:01:42] [Server thread/INFO]: [RuneNyang_: Set the time to 1000]
+[13:14:43] [Server thread/INFO]: suhan777 issued server command: /tp RuneNyang_
+[13:14:43] [Server thread/INFO]: [suhan777: Teleported suhan777 to RuneNyang_]
+[13:16:11] [Server thread/INFO]: RuneNyang_ has made the advancement [Hot Stuff]
+[13:16:33] [Server thread/INFO]: RuneNyang_ issued server command: /time set 1000
+[13:16:33] [Server thread/INFO]: [RuneNyang_: Set the time to 1000]
+[13:17:03] [User Authenticator #9/INFO]: UUID of player line8010 is 78f680fe-4f34-45bf-99da-5e9fce9e5daf
+[13:17:03] [Server thread/INFO]: line8010 joined the game
+[13:17:03] [Server thread/INFO]: line8010[/192.168.50.1:64306] logged in with entity id 171972 at ([happy]12.038876741167478, -60.0, -25.535590311442466)
+[13:17:33] [Server thread/INFO]: line8010 issued server command: /clear
+[13:17:33] [Server thread/INFO]: [line8010: Removed 559 item(s) from player line8010]
+[13:20:20] [Server thread/INFO]: line8010 issued server command: /fill -14 -60 -17 ~ ~ ~ minecraft:
+[13:20:35] [Server thread/INFO]: line8010 issued server command: /fill -14 -60 -17 ~ ~ ~ minecraft:birch
+[13:20:47] [Server thread/INFO]: line8010 issued server command: /fill -14 -60 -17 ~ ~ ~ minecraft:birch_log
+[13:20:47] [Server thread/INFO]: [line8010: Successfully filled 4 block(s)]
+[13:21:43] [Server thread/INFO]: line8010 issued server command: /fill -14 -60 -17 ~ ~ ~ minecraft:birch_log
+[13:21:43] [Server thread/INFO]: [line8010: Successfully filled 67 block(s)]
+[13:22:14] [Server thread/INFO]: line8010 issued server command: /fill -14 -60 -17 ~ ~ ~ minecraft:air
+[13:22:14] [Server thread/INFO]: [line8010: Successfully filled 67 block(s)]
+[13:22:41] [Server thread/INFO]: line8010 issued server command: /fill -14 -60 -17 ~ ~ ~ minecraft:log
+[13:22:48] [Server thread/INFO]: line8010 issued server command: /fill -14 -60 -17 ~ ~ ~ minecraft:birch_log
+[13:22:48] [Server thread/INFO]: [line8010: Successfully filled 8 block(s)]
+[13:23:09] [Server thread/INFO]: line8010 issued server command: /fill -14 -60 -18 ~ ~ ~ minecraft:birch_log
+[13:23:09] [Server thread/INFO]: [line8010: Successfully filled 7 block(s)]
+[13:23:30] [Server thread/INFO]: line8010 issued server command: /fill -15 -60 -17 ~ ~ ~ minecraft:birch_log
+[13:23:30] [Server thread/INFO]: [line8010: Successfully filled 3 block(s)]
+[13:24:03] [Server thread/INFO]: line8010 issued server command: /fill -15 -60 -17 ~ ~ ~ minecraft:birch_log
+[13:24:03] [Server thread/INFO]: [line8010: Successfully filled 93 block(s)]
+[13:24:13] [Server thread/INFO]: line8010 issued server command: /fill -15 -60 -17 ~ ~ ~ minecraft:birch_log
+[13:24:13] [Server thread/INFO]: [line8010: Successfully filled 1 block(s)]
+[13:24:20] [Server thread/INFO]: line8010 issued server command: /fill -15 -60 -17 ~ ~ ~ minecraft:air
+[13:24:20] [Server thread/INFO]: [line8010: Successfully filled 74 block(s)]
+[13:24:30] [Server thread/INFO]: line8010 issued server command: /fill -15 -60 -17 ~ ~ ~ minecraft:birch_log
+[13:24:30] [Server thread/INFO]: [line8010: Successfully filled 65 block(s)]
+[13:24:45] [Server thread/INFO]: line8010 issued server command: /fill -15 -60 -17 ~ ~ ~ minecraft:air
+[13:24:45] [Server thread/INFO]: [line8010: Successfully filled 67 block(s)]
+[13:24:47] [Server thread/INFO]: line8010 issued server command: /fill -15 -60 -17 ~ ~ ~ minecraft:birch_log
+[13:24:47] [Server thread/INFO]: [line8010: Successfully filled 68 block(s)]
+[13:24:55] [Server thread/INFO]: line8010 issued server command: /fill -15 -60 -17 ~ ~ ~ minecraft:air
+[13:24:55] [Server thread/INFO]: [line8010: Successfully filled 65 block(s)]
+[13:26:51] [Server thread/INFO]: line8010 issued server command: /fill -15 -4 -17 ~ ~ ~ minecraft:air
+[13:26:51] [Server thread/INFO]: [line8010: Successfully filled 164 block(s)]
+[13:27:42] [Server thread/INFO]: suhan777 issued server command: /time set day
+[13:27:42] [Server thread/INFO]: [suhan777: Set the time to 1000]
+[13:30:06] [Server thread/INFO]: line8010 issued server command: /fill -15 -4 -17 ~ ~ ~ minecraft:air
+[13:30:06] [Server thread/INFO]: [line8010: Successfully filled 7 block(s)]
+[13:30:54] [Server thread/INFO]: suhan777 issued server command: /weather clear
+[13:30:54] [Server thread/INFO]: [suhan777: Set the weather to clear]
+[13:31:00] [Server thread/INFO]: suhan777 issued server command: /time set day
+[13:31:00] [Server thread/INFO]: [suhan777: Set the time to 1000]
+[13:31:18] [Server thread/INFO]: line8010 issued server command: /fill -81 0 -17 ~ ~ ~ minecraft:birch_log
+[13:31:18] [Server thread/INFO]: [line8010: Successfully filled 2 block(s)]
+[13:31:39] [Server thread/INFO]: line8010 issued server command: /fill -81 0 -17 ~ ~ ~ minecraft:birch_log
+[13:31:39] [Server thread/INFO]: [line8010: Successfully filled 709 block(s)]
+[13:32:17] [Server thread/INFO]: line8010 issued server command: /fill -81 0 -95 ~ ~ ~ minecraft:birch_log
+[13:32:17] [Server thread/INFO]: [line8010: Successfully filled 4 block(s)]
+[13:32:37] [Server thread/INFO]: line8010 issued server command: /fill -81 0 -95 ~ ~ ~ minecraft:birch_log
+[13:32:37] [Server thread/INFO]: [line8010: Successfully filled 2853 block(s)]
+[13:32:38] [Server thread/INFO]: RuneNyang_ issued server command: /tp line8010
+[13:32:38] [Server thread/INFO]: [RuneNyang_: Teleported RuneNyang_ to line8010]
+[13:32:38] [Server thread/WARN]: RuneNyang_ moved too quickly! 104.14005098788091,53.809588473906814,-166.78467917191313
+[13:33:13] [Server thread/INFO]: line8010 issued server command: /fill 54 0 -95 ~ ~ ~ minecraft:birch_log
+[13:33:13] [Server thread/INFO]: [line8010: Successfully filled 4 block(s)]
+[13:33:24] [Server thread/INFO]: RuneNyang_ has reached the goal [Sky's the Limit]
+[13:33:30] [Server thread/INFO]: line8010 issued server command: /fill 54 0 -95 ~ ~ ~ minecraft:birch_log
+[13:33:30] [Server thread/INFO]: [line8010: Successfully filled 155 block(s)]
+[13:33:57] [Server thread/INFO]: line8010 issued server command: /fill 54 1 -16 ~ ~ ~ minecraft:birch_log
+[13:33:57] [Server thread/INFO]: [line8010: Successfully filled 1 block(s)]
+[13:34:15] [Server thread/INFO]: line8010 issued server command: /fill 54 1 -16 ~ ~ ~ minecraft:birch_log
+[13:34:15] [Server thread/INFO]: [line8010: Successfully filled 133 block(s)]
+[13:34:20] [Server thread/INFO]: RuneNyang_ issued server command: /gamemode spectator
+[13:34:20] [Server thread/INFO]: [RuneNyang_: Set own game mode to Spectator Mode]
+[13:34:25] [Server thread/INFO]: RuneNyang_ issued server command: /gamemode survival
+[13:34:25] [Server thread/INFO]: [RuneNyang_: Set own game mode to Survival Mode]
+[13:34:30] [Server thread/INFO]: RuneNyang_ issued server command: /gamemode creative
+[13:34:30] [Server thread/INFO]: [RuneNyang_: Set own game mode to Creative Mode]
+[13:34:35] [Server thread/INFO]: line8010 issued server command: /fill 54 1 50 ~ ~ ~ minecraft:birch_log
+[13:34:35] [Server thread/INFO]: [line8010: Successfully filled 2 block(s)]
+[13:34:45] [Server thread/INFO]: RuneNyang_ issued server command: /gamemode survival
+[13:34:45] [Server thread/INFO]: [RuneNyang_: Set own game mode to Survival Mode]
+[13:34:52] [Server thread/INFO]: line8010 issued server command: /fill 54 1 50 ~ ~ ~ minecraft:birch_log
+[13:34:52] [Server thread/INFO]: [line8010: Successfully filled 6024 block(s)]
+[13:35:29] [Server thread/INFO]: line8010 issued server command: /fill -82 1 50 ~ ~ ~ minecraft:birch_log
+[13:35:29] [Server thread/INFO]: [line8010: Successfully filled 18 block(s)]
+[13:35:48] [Server thread/INFO]: line8010 issued server command: /fill -82 1 50 ~ ~ ~ minecraft:birch_log
+[13:35:48] [Server thread/INFO]: [line8010: Successfully filled 124 block(s)]
+[13:36:14] [Server thread/INFO]: RuneNyang_ tried to swim in lava
+[13:36:22] [Server thread/INFO]: RuneNyang_ issued server command: /gamemode c
+[13:36:27] [Server thread/INFO]: RuneNyang_ issued server command: /gamemode creative
+[13:36:27] [Server thread/INFO]: [RuneNyang_: Set own game mode to Creative Mode]
+[13:37:13] [Server thread/INFO]: RuneNyang_ issued server command: //up 1
+[13:40:31] [Async Chat Thread - #16/INFO]: <RuneNyang_> ㄷㄷ
+[13:41:26] [Server thread/INFO]: RuneNyang_ issued server command: /tp line8010
+[13:41:26] [Server thread/INFO]: [RuneNyang_: Teleported RuneNyang_ to line8010]
+[13:41:26] [Server thread/WARN]: RuneNyang_ moved too quickly! 21.62992650333753,57.39999997615814,-152.22347271840857
+[13:41:43] [Server thread/INFO]: RuneNyang_ issued server command: /tp line8010
+[13:41:43] [Server thread/INFO]: [RuneNyang_: Teleported RuneNyang_ to line8010]
+[13:41:43] [Server thread/WARN]: RuneNyang_ moved too quickly! 2.05387168823561,-6.6973066222099495,-9.038096609274575
+[13:41:48] [Server thread/INFO]: suhan777 issued server command: /tp line8010
+[13:41:48] [Server thread/INFO]: [suhan777: Teleported suhan777 to line8010]
+[13:41:48] [Server thread/WARN]: suhan777 moved too quickly! 51.930922915599986,52.56395573357486,-89.7187575551422
+[13:41:53] [Server thread/INFO]: suhan777 issued server command: /tp line8010
+[13:41:53] [Server thread/INFO]: [suhan777: Teleported suhan777 to line8010]
+[13:41:55] [Server thread/INFO]: suhan777 issued server command: /tp line8010
+[13:41:55] [Server thread/INFO]: [suhan777: Teleported suhan777 to line8010]
+[13:41:55] [Server thread/WARN]: suhan777 moved too quickly! -56.08555809421904,-3.863345081136785,-0.17018741412314853
+[13:41:55] [Server thread/WARN]: suhan777 moved too quickly! -56.08555809421904,-3.863345081136785,-0.17018741412314853
+[13:41:55] [Server thread/WARN]: suhan777 moved too quickly! -56.08555809421904,-3.863345081136785,-0.17018741412314853
+[13:42:09] [Server thread/INFO]: suhan777 issued server command: /time set day
+[13:42:09] [Server thread/INFO]: [suhan777: Set the time to 1000]
+[13:42:11] [Server thread/INFO]: RuneNyang_ issued server command: /gamemode survival
+[13:42:11] [Server thread/INFO]: [RuneNyang_: Set own game mode to Survival Mode]
+[13:42:28] [Server thread/INFO]: RuneNyang_ issued server command: /gamemode creative
+[13:42:28] [Server thread/INFO]: [RuneNyang_: Set own game mode to Creative Mode]
+[13:42:48] [Server thread/INFO]: line8010 lost connection: Disconnected
+[13:42:48] [Server thread/INFO]: line8010 left the game
+[13:43:35] [Server thread/INFO]: RuneNyang_ lost connection: Disconnected
+[13:43:35] [Server thread/INFO]: RuneNyang_ left the game
+[13:47:46] [User Authenticator #10/INFO]: UUID of player RuneNyang_ is 1c1ef11b-ae1f-4618-b7f1-37d1679a7a6b
+[13:47:46] [Server thread/INFO]: RuneNyang_ joined the game
+[13:47:46] [Server thread/INFO]: RuneNyang_[/121.136.48.57:60683] logged in with entity id 175989 at ([happy]35.029679385434804, -50.95376619634694, -38.95493604471979)
+[13:49:07] [Server thread/INFO]: RuneNyang_ lost connection: Disconnected
+[13:49:07] [Server thread/INFO]: RuneNyang_ left the game
+[13:50:48] [User Authenticator #11/INFO]: UUID of player RuneNyang_ is 1c1ef11b-ae1f-4618-b7f1-37d1679a7a6b
+[13:50:48] [Server thread/INFO]: RuneNyang_ joined the game
+[13:50:48] [Server thread/INFO]: RuneNyang_[/121.136.48.57:61024] logged in with entity id 176418 at ([happy]-35.827103881648135, -31.834841210990398, -75.95477034815056)
+[13:50:56] [Server thread/INFO]: RuneNyang_ issued server command: //ww
+[13:51:12] [Server thread/INFO]: RuneNyang_ lost connection: Disconnected
+[13:51:12] [Server thread/INFO]: RuneNyang_ left the game
+[13:52:00] [User Authenticator #12/INFO]: UUID of player line8010 is 78f680fe-4f34-45bf-99da-5e9fce9e5daf
+[13:52:00] [Server thread/INFO]: line8010 joined the game
+[13:52:00] [Server thread/INFO]: line8010[/192.168.50.1:49834] logged in with entity id 176602 at ([happy]-42.00450885392206, -50.976714886992795, -128.39126369312677)
+[13:52:17] [Server thread/INFO]: suhan777 issued server command: /time set day
+[13:52:17] [Server thread/INFO]: [suhan777: Set the time to 1000]
+[13:53:20] [Server thread/INFO]: line8010 issued server command: /gamemode survival
+[13:53:20] [Server thread/INFO]: [line8010: Set own game mode to Survival Mode]
+[13:53:50] [Server thread/INFO]: line8010 issued server command: /tag @s add a
+[13:53:50] [Server thread/INFO]: [line8010: Added tag 'a' to line8010]
+[13:53:54] [Server thread/WARN]: line8010 was kicked for floating too long!
+[13:53:54] [Server thread/INFO]: line8010 lost connection: Flying is not enabled on this server
+[13:53:54] [Server thread/INFO]: line8010 left the game
+[13:54:06] [User Authenticator #13/INFO]: UUID of player line8010 is 78f680fe-4f34-45bf-99da-5e9fce9e5daf
+[13:54:06] [Server thread/INFO]: line8010 joined the game
+[13:54:06] [Server thread/INFO]: line8010[/192.168.50.1:49948] logged in with entity id 176856 at ([happy]-13.927, -60.07840000152588, -16.005)
+[13:54:11] [Server thread/WARN]: line8010 was kicked for floating too long!
+[13:54:11] [Server thread/INFO]: line8010 lost connection: Flying is not enabled on this server
+[13:54:11] [Server thread/INFO]: line8010 left the game
+[13:54:28] [User Authenticator #13/INFO]: UUID of player line8010 is 78f680fe-4f34-45bf-99da-5e9fce9e5daf
+[13:54:28] [Server thread/INFO]: line8010 joined the game
+[13:54:28] [Server thread/INFO]: line8010[/192.168.50.1:49963] logged in with entity id 176914 at ([happy]-13.927, -60.07840000152588, -16.005)
+[13:54:32] [Server thread/WARN]: line8010 was kicked for floating too long!
+[13:54:32] [Server thread/INFO]: line8010 lost connection: Flying is not enabled on this server
+[13:54:32] [Server thread/INFO]: line8010 left the game
+[13:54:48] [User Authenticator #13/INFO]: UUID of player line8010 is 78f680fe-4f34-45bf-99da-5e9fce9e5daf
+[13:54:48] [Server thread/INFO]: line8010 joined the game
+[13:54:48] [Server thread/INFO]: line8010[/192.168.50.1:49975] logged in with entity id 176963 at ([happy]-13.927, -60.07840000152588, -16.005)
+[13:54:52] [Server thread/WARN]: line8010 was kicked for floating too long!
+[13:54:52] [Server thread/INFO]: line8010 lost connection: Flying is not enabled on this server
+[13:54:52] [Server thread/INFO]: line8010 left the game
+[13:55:00] [User Authenticator #13/INFO]: UUID of player line8010 is 78f680fe-4f34-45bf-99da-5e9fce9e5daf
+[13:55:00] [Server thread/INFO]: line8010 joined the game
+[13:55:00] [Server thread/INFO]: line8010[/192.168.50.1:49991] logged in with entity id 177004 at ([happy]-13.927, -60.07840000152588, -16.005)
+[13:55:05] [Server thread/WARN]: line8010 was kicked for floating too long!
+[13:55:05] [Server thread/INFO]: line8010 lost connection: Flying is not enabled on this server
+[13:55:05] [Server thread/INFO]: line8010 left the game
+[13:55:34] [User Authenticator #13/INFO]: UUID of player RuneNyang_ is 1c1ef11b-ae1f-4618-b7f1-37d1679a7a6b
+[13:55:34] [Server thread/INFO]: RuneNyang_ joined the game
+[13:55:34] [Server thread/INFO]: RuneNyang_[/121.136.48.57:61413] logged in with entity id 177065 at ([happy]-46.86529252285725, -58.82917357964872, 11.853500998128489)
+[13:55:45] [User Authenticator #13/INFO]: UUID of player line8010 is 78f680fe-4f34-45bf-99da-5e9fce9e5daf
+[13:55:45] [Server thread/INFO]: line8010 joined the game
+[13:55:45] [Server thread/INFO]: line8010[/192.168.50.1:50033] logged in with entity id 177076 at ([happy]-13.927, -60.07840000152588, -16.005)
+[13:55:50] [Server thread/WARN]: line8010 was kicked for floating too long!
+[13:55:50] [Server thread/INFO]: line8010 lost connection: Flying is not enabled on this server
+[13:55:50] [Server thread/INFO]: line8010 left the game
+[13:55:54] [User Authenticator #13/INFO]: UUID of player line8010 is 78f680fe-4f34-45bf-99da-5e9fce9e5daf
+[13:55:54] [Server thread/INFO]: line8010 joined the game
+[13:55:54] [Server thread/INFO]: line8010[/192.168.50.1:50042] logged in with entity id 177107 at ([happy]-13.927, -60.07840000152588, -16.005)
+[13:55:58] [Server thread/INFO]: line8010 issued server command: /gamemode creative
+[13:55:58] [Server thread/INFO]: [line8010: Set own game mode to Creative Mode]
+[13:56:09] [Server thread/INFO]: line8010 issued server command: /tag @s remove 1
+[13:56:09] [Server thread/INFO]: [line8010: Removed tag '1' from line8010]
+[13:56:12] [Server thread/INFO]: line8010 issued server command: /tag @s remove a
+[13:56:12] [Server thread/INFO]: [line8010: Removed tag 'a' from line8010]
+[13:56:19] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[13:56:25] [Server thread/INFO]: RuneNyang_ issued server command: //
+[13:56:32] [Server thread/INFO]: [Not Secure] [Server] hay
+[13:56:45] [Server thread/INFO]: line8010 issued server command: /say hay
+[13:56:45] [Server thread/INFO]: [line8010] hay
+[13:56:45] [Async Chat Thread - #21/INFO]: <RuneNyang_> why
+[13:57:12] [Server thread/INFO]: [Not Secure] [Server] 임태영바보 임태영똥개 두비디바비디밤
+[13:57:59] [Server thread/INFO]: RuneNyang_ issued server command: /tellraw @a {"text":" hello "}
+[13:58:12] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[13:58:12] [Server thread/INFO]: RuneNyang_ issued server command: /tellraw @a {"text":" [server] 나는 천재다 "}
+[13:58:47] [Server thread/INFO]: RuneNyang_ lost connection: Disconnected
+[13:58:47] [Server thread/INFO]: RuneNyang_ left the game
+[13:59:36] [User Authenticator #14/INFO]: UUID of player RuneNyang_ is 1c1ef11b-ae1f-4618-b7f1-37d1679a7a6b
+[13:59:36] [Server thread/INFO]: RuneNyang_ joined the game
+[13:59:36] [Server thread/INFO]: RuneNyang_[/121.136.48.57:61497] logged in with entity id 177575 at ([happy]-59.6110392908256, -42.159699397098905, 4.596896342506402)
+[13:59:44] [Async Chat Thread - #23/INFO]: <RuneNyang_> ?
+[13:59:49] [Async Chat Thread - #24/INFO]: <RuneNyang_> 이게 뮤ㅗ여
+[14:00:22] [Server thread/INFO]: line8010 issued server command: /deop RuneNyang_
+[14:00:22] [Server thread/INFO]: [line8010: Made RuneNyang_ no longer a server operator]
+[14:00:52] [Server thread/INFO]: RuneNyang_ issued server command: /tellraw @a {"text":" [server] 나는 사람이 아니다 "}
+[14:01:11] [Server thread/INFO]: line8010 issued server command: /op RuneNyang
+[14:01:46] [Server thread/INFO]: RuneNyang_ issued server command: /tellraw @a {"text":" [server] 나는 사람이 아니다 "}
+[14:02:05] [Server thread/INFO]: line8010 issued server command: /op RuneNyang_
+[14:02:05] [Server thread/INFO]: [line8010: Made RuneNyang_ a server operator]
+[14:02:09] [Server thread/INFO]: RuneNyang_ issued server command: /tellraw @a {"text":" [server] 나는 사람이 아니다 "}
+[14:02:25] [Server thread/INFO]: RuneNyang_ issued server command: /tellraw @a {"text":" [김지원] 나는 사람이 아니다 "}
+[14:02:31] [Async Chat Thread - #25/INFO]: <line8010> s
+[14:02:50] [Server thread/INFO]: RuneNyang_ issued server command: /tellraw @a {"text":"<line8010> 나는 사람이 아니다 "}
+[14:03:00] [Server thread/INFO]: RuneNyang_ issued server command: /tellraw @a {"text":"<line8010> 사실 나는 고양이다 "}
+[14:03:34] [Server thread/INFO]: RuneNyang_ issued server command: /tellraw @a {"text":"<line8010> hello world "}
+[14:03:35] [Server thread/INFO]: suhan777 issued server command: /time set day
+[14:03:35] [Server thread/INFO]: [suhan777: Set the time to 1000]
+[14:03:46] [Server thread/INFO]: line8010 issued server command: /gamerule doDaylightCycle false
+[14:03:46] [Server thread/INFO]: [line8010: Gamerule doDaylightCycle is now set to: false]
+[14:03:59] [Server thread/INFO]: RuneNyang_ issued server command: /tellraw @a {"text":"<line8010> 나는 "}
+[14:04:03] [Server thread/INFO]: line8010 issued server command: /gamerule doWeatherCycle false
+[14:04:03] [Server thread/INFO]: [line8010: Gamerule doWeatherCycle is now set to: false]
+[14:04:20] [Server thread/INFO]: RuneNyang_ issued server command: /tp line8010
+[14:04:20] [Server thread/INFO]: [RuneNyang_: Teleported RuneNyang_ to line8010]
+[14:04:56] [Server thread/INFO]: RuneNyang_ issued server command: /tp line8010
+[14:04:56] [Server thread/INFO]: [RuneNyang_: Teleported RuneNyang_ to line8010]
+[14:06:28] [Server thread/INFO]: line8010 issued server command: /fill 107 216 -149 ~ ~ ~ minecraft:birch_log
+[14:06:28] [Server thread/INFO]: [line8010: Successfully filled 1 block(s)]
+[14:06:58] [Server thread/INFO]: line8010 issued server command: /fill 107 216 -149 ~ ~ ~ minecraft:birch_log
+[14:06:58] [Server thread/INFO]: [line8010: Successfully filled 86 block(s)]
+[14:07:21] [Server thread/INFO]: line8010 issued server command: /fill 107 216 -149 ~ ~ ~ minecraft:birch_log
+[14:07:23] [Server thread/INFO]: line8010 issued server command: /fill 107 216 -149 ~ ~ ~ minecraft:birch_log
+[14:07:26] [Server thread/INFO]: line8010 issued server command: /fill 107 216 -149 ~ ~ ~ minecraft:birch_log
+[14:07:30] [Server thread/INFO]: line8010 issued server command: /fill 107 216 -149 ~ ~ ~ minecraft:birch_log
+[14:07:33] [Server thread/INFO]: line8010 issued server command: /fill 107 216 -149 ~ ~ ~ minecraft:birch_log
+[14:07:36] [Server thread/INFO]: line8010 issued server command: /fill 107 216 -149 ~ ~ ~ minecraft:birch_log
+[14:07:36] [Server thread/INFO]: [line8010: Successfully filled 14 block(s)]
+[14:08:12] [Server thread/INFO]: RuneNyang_ issued server command: /gamemode survival
+[14:08:12] [Server thread/INFO]: [RuneNyang_: Set own game mode to Survival Mode]
+[14:08:35] [Server thread/INFO]: line8010 issued server command: /fill 107 319 -149 ~ ~ ~ minecraft:birch_log
+[14:08:39] [Server thread/INFO]: RuneNyang_ fell from a high place
+[14:08:48] [Server thread/INFO]: RuneNyang_ issued server command: /gamemode creative
+[14:08:48] [Server thread/INFO]: [RuneNyang_: Set own game mode to Creative Mode]
+[14:08:52] [Server thread/INFO]: RuneNyang_ issued server command: /tp line8010
+[14:08:52] [Server thread/INFO]: [RuneNyang_: Teleported RuneNyang_ to line8010]
+[14:09:38] [Server thread/INFO]: RuneNyang_ issued server command: /gamemode survival
+[14:09:38] [Server thread/INFO]: [RuneNyang_: Set own game mode to Survival Mode]
+[14:09:51] [Server thread/INFO]: RuneNyang_ issued server command: /tp line8010
+[14:09:51] [Server thread/INFO]: [RuneNyang_: Teleported RuneNyang_ to line8010]
+[14:10:15] [Server thread/INFO]: RuneNyang_ issued server command: /tp line8010
+[14:10:15] [Server thread/INFO]: [RuneNyang_: Teleported RuneNyang_ to line8010]
+[14:11:16] [Server thread/INFO]: line8010 issued server command: /fill 107 319 -149 ~ ~ ~ minecraft:birch_log
+[14:11:19] [Server thread/INFO]: line8010 issued server command: /fill 107 319 -149 ~ ~ ~ minecraft:birch_log
+[14:11:19] [Server thread/INFO]: line8010 issued server command: /fill 107 319 -149 ~ ~ ~ minecraft:birch_log
+[14:11:20] [Server thread/INFO]: line8010 issued server command: /fill 107 319 -149 ~ ~ ~ minecraft:birch_log
+[14:11:21] [Server thread/INFO]: line8010 issued server command: /fill 107 319 -149 ~ ~ ~ minecraft:birch_log
+[14:11:21] [Server thread/INFO]: line8010 issued server command: /fill 107 319 -149 ~ ~ ~ minecraft:birch_log
+[14:11:22] [Server thread/INFO]: line8010 issued server command: /fill 107 319 -149 ~ ~ ~ minecraft:birch_log
+[14:11:23] [Server thread/INFO]: line8010 issued server command: /fill 107 319 -149 ~ ~ ~ minecraft:birch_log
+[14:11:24] [Server thread/INFO]: line8010 issued server command: /fill 107 319 -149 ~ ~ ~ minecraft:birch_log
+[14:11:24] [Server thread/INFO]: line8010 issued server command: /fill 107 319 -149 ~ ~ ~ minecraft:birch_log
+[14:11:25] [Server thread/INFO]: line8010 issued server command: /fill 107 319 -149 ~ ~ ~ minecraft:birch_log
+[14:11:26] [Server thread/INFO]: line8010 issued server command: /fill 107 319 -149 ~ ~ ~ minecraft:birch_log
+[14:11:26] [Server thread/INFO]: line8010 issued server command: /fill 107 319 -149 ~ ~ ~ minecraft:birch_log
+[14:11:27] [Server thread/INFO]: line8010 has made the advancement [Caves & Cliffs]
+[14:11:55] [Server thread/WARN]: RuneNyang_ moved too quickly! -0.13896609621498612,-20.35872795335348,-0.8309632644223939
+[14:12:02] [Server thread/INFO]: line8010 issued server command: /fill 107 319 -149 ~ ~ ~ minecraft:birch_log
+[14:12:06] [Server thread/INFO]: line8010 issued server command: /fill 107 319 -149 ~ ~ ~ minecraft:birch_log
+[14:12:06] [Server thread/INFO]: [line8010: Successfully filled 9031 block(s)]
+[14:12:58] [Server thread/INFO]: line8010 issued server command: /fill 107 319 -149 ~ ~ ~ minecraft:birch_log
+[14:12:59] [Server thread/INFO]: line8010 issued server command: /fill 107 319 -149 ~ ~ ~ minecraft:birch_log
+[14:13:13] [Server thread/INFO]: line8010 issued server command: /fill 107 319 -149 ~ ~ ~ minecraft:birch_log
+[14:13:13] [Server thread/INFO]: [line8010: Successfully filled 1650 block(s)]
+[14:13:30] [Server thread/INFO]: RuneNyang_ issued server command: /gamemode creative
+[14:13:30] [Server thread/INFO]: [RuneNyang_: Set own game mode to Creative Mode]
+[14:13:34] [Server thread/INFO]: RuneNyang_ issued server command: /gamemode survival
+[14:13:34] [Server thread/INFO]: [RuneNyang_: Set own game mode to Survival Mode]
+[14:13:37] [Server thread/INFO]: RuneNyang_ issued server command: /gamemode creative
+[14:13:37] [Server thread/INFO]: [RuneNyang_: Set own game mode to Creative Mode]
+[14:14:50] [Server thread/INFO]: line8010 issued server command: /fill 105 319 97 ~ ~ ~ minecraft:birch_log
+[14:15:00] [Server thread/INFO]: line8010 issued server command: /fill 105 319 97 ~ ~ ~ minecraft:birch_log
+[14:15:06] [Server thread/INFO]: line8010 issued server command: /fill 105 319 97 ~ ~ ~ minecraft:birch_log
+[14:15:06] [Server thread/INFO]: [line8010: Successfully filled 21325 block(s)]
+[14:15:51] [Server thread/INFO]: line8010 issued server command: /fill 105 319 97 ~ ~ ~ minecraft:birch_log
+[14:15:51] [Server thread/INFO]: [line8010: Successfully filled 19712 block(s)]
+[14:18:49] [Server thread/INFO]: RuneNyang_ issued server command: /tp line8010
+[14:18:49] [Server thread/INFO]: [RuneNyang_: Teleported RuneNyang_ to line8010]
+[14:18:49] [Server thread/WARN]: RuneNyang_ moved too quickly! 537.87791182328,-21.186831952902253,-376.4731211795497
+[14:19:35] [Server thread/WARN]: RuneNyang_ moved too quickly! -26.711873234555043,4.297384202475939,-0.22698281682593802
+[14:19:54] [Server thread/INFO]: line8010 issued server command: /fill 105 319 97 ~ ~ ~ minecraft:birch_log
+[14:20:38] [Server thread/INFO]: line8010 issued server command: /fill -138 318 97 ~ ~ ~ minecraft:birch_log
+[14:20:38] [Server thread/INFO]: [line8010: Successfully filled 2 block(s)]
+[14:21:02] [Server thread/INFO]: line8010 issued server command: /fill -138 318 97 ~ ~ ~ minecraft:birch_log
+[14:21:02] [Server thread/INFO]: [line8010: Successfully filled 2212 block(s)]
+[14:22:03] [Server thread/INFO]: line8010 issued server command: /fill -138 318 97 ~ ~ ~ minecraft:birch_log
+[14:22:03] [Server thread/INFO]: [line8010: Successfully filled 1010 block(s)]
+[14:22:50] [Server thread/INFO]: line8010 issued server command: /fill -138 318 97 ~ ~ ~ minecraft:birch_log
+[14:22:54] [Server thread/INFO]: line8010 issued server command: /fill -138 318 97 ~ ~ ~ minecraft:birch_loga
+[14:22:56] [Server thread/INFO]: line8010 issued server command: /fill -138 318 97 ~ ~ ~ minecraft:birch_log
+[14:22:59] [Server thread/INFO]: line8010 issued server command: /
+[14:23:38] [Server thread/INFO]: line8010 issued server command: /fill -137 318 -162 ~ ~ ~ minecraft:birch_log
+[14:23:38] [Server thread/INFO]: [line8010: Successfully filled 2 block(s)]
+[14:23:48] [Server thread/INFO]: line8010 issued server command: /fill -137 318 -162 ~ ~ ~ minecraft:birch_log
+[14:23:48] [Server thread/INFO]: [line8010: Successfully filled 4015 block(s)]
+[14:23:55] [Server thread/INFO]: line8010 issued server command: /fill -137 318 -162 ~ ~ ~ minecraft:birch_log
+[14:23:55] [Server thread/INFO]: [line8010: Successfully filled 128 block(s)]
+[14:24:04] [Server thread/INFO]: line8010 issued server command: /fill -137 318 -162 ~ ~ ~ minecraft:birch_log
+[14:24:04] [Server thread/INFO]: [line8010: Successfully filled 208 block(s)]
+[14:24:47] [Server thread/INFO]: line8010 issued server command: /fill 107 319 -149 ~ ~ ~ air
+[14:25:00] [Server thread/INFO]: RuneNyang_ lost connection: Disconnected
+[14:25:00] [Server thread/INFO]: RuneNyang_ left the game
+[14:25:03] [Server thread/INFO]: line8010 issued server command: /fill 107 319 -149 ~ ~ ~ air
+[14:25:03] [Server thread/INFO]: [line8010: Successfully filled 821 block(s)]
+[14:25:18] [Server thread/INFO]: line8010 issued server command: /fill 107 319 -149 ~ ~ ~ air
+[14:25:18] [Server thread/INFO]: [line8010: Successfully filled 109 block(s)]
+[14:25:22] [Server thread/INFO]: line8010 issued server command: /fill 107 319 -149 ~ ~ ~ air
+[14:25:22] [Server thread/INFO]: [line8010: Successfully filled 218 block(s)]
+[14:25:38] [Server thread/INFO]: line8010 issued server command: /fill 105 319 98 ~ ~ ~ air
+[14:25:38] [Server thread/INFO]: [line8010: Successfully filled 1 block(s)]
+[14:25:53] [Server thread/INFO]: line8010 issued server command: /fill 105 319 98 ~ ~ ~ air
+[14:25:53] [Server thread/INFO]: [line8010: Successfully filled 1261 block(s)]
+[14:26:00] [User Authenticator #15/INFO]: UUID of player RuneNyang_ is 1c1ef11b-ae1f-4618-b7f1-37d1679a7a6b
+[14:26:00] [Server thread/INFO]: RuneNyang_ joined the game
+[14:26:00] [Server thread/INFO]: RuneNyang_[/121.136.48.57:61830] logged in with entity id 230222 at ([happy]-91.05828439344928, 319.0, 103.57767881919516)
+[14:26:06] [Server thread/INFO]: line8010 issued server command: /fill -140 319 103 ~ ~ ~ air
+[14:26:06] [Server thread/INFO]: [line8010: Successfully filled 1 block(s)]
+[14:26:13] [Server thread/INFO]: RuneNyang_ lost connection: Disconnected
+[14:26:13] [Server thread/INFO]: RuneNyang_ left the game
+[14:26:18] [Server thread/INFO]: line8010 issued server command: /fill -140 319 103 ~ ~ ~ air
+[14:26:18] [Server thread/INFO]: [line8010: Successfully filled 6640 block(s)]
+[14:28:16] [User Authenticator #16/INFO]: UUID of player RuneNyang_ is 1c1ef11b-ae1f-4618-b7f1-37d1679a7a6b
+[14:28:16] [Server thread/INFO]: RuneNyang_ joined the game
+[14:28:16] [Server thread/INFO]: RuneNyang_[/121.136.48.57:61999] logged in with entity id 236821 at ([happy]-91.05828439344928, 319.0, 103.57767881919516)
+[14:28:24] [Server thread/INFO]: RuneNyang_ issued server command: /tp line8010
+[14:28:24] [Server thread/INFO]: [RuneNyang_: Teleported RuneNyang_ to line8010]
+[14:31:22] [Server thread/INFO]: RuneNyang_ lost connection: Disconnected
+[14:31:22] [Server thread/INFO]: RuneNyang_ left the game
+[14:32:07] [User Authenticator #17/INFO]: UUID of player RuneNyang_ is 1c1ef11b-ae1f-4618-b7f1-37d1679a7a6b
+[14:32:07] [Server thread/INFO]: RuneNyang_ joined the game
+[14:32:07] [Server thread/INFO]: RuneNyang_[/121.136.48.57:62237] logged in with entity id 248001 at ([happy]103.88742457347621, 322.24339596370015, -100.88980897658435)
+[14:35:24] [Server thread/INFO]: RuneNyang_ issued server command: /tp line8010
+[14:35:24] [Server thread/INFO]: [RuneNyang_: Teleported RuneNyang_ to line8010]
+[14:35:24] [Server thread/WARN]: RuneNyang_ moved too quickly! 222.21873312787497,-11.307927770112087,137.98304389464934
+[14:37:39] [Server thread/INFO]: RuneNyang_ issued server command: /tp suhan777
+[14:37:39] [Server thread/INFO]: [RuneNyang_: Teleported RuneNyang_ to suhan777]
+[14:37:48] [Server thread/INFO]: RuneNyang_ issued server command: //wrod
+[14:38:00] [Server thread/INFO]: line8010 issued server command: /fill 22 -61 -32 ~ ~ ~ minecraft:birch_log
+[14:38:00] [Server thread/INFO]: [line8010: Successfully filled 7 block(s)]
+[14:38:13] [Server thread/INFO]: line8010 issued server command: /fill 22 -61 -32 ~ ~ ~ minecraft:birch_log
+[14:38:13] [Server thread/INFO]: [line8010: Successfully filled 6612 block(s)]
+[14:38:48] [Server thread/INFO]: line8010 issued server command: /fill 22 -61 -32 ~ ~ ~ minecraft:glass
+[14:38:48] [Server thread/INFO]: [line8010: Successfully filled 6612 block(s)]
+[14:39:01] [Server thread/INFO]: line8010 issued server command: /fill 22 -61 -32 ~ ~ ~ minecraft:granite
+[14:39:01] [Server thread/INFO]: [line8010: Successfully filled 6612 block(s)]
+[14:39:11] [Server thread/INFO]: suhan777 issued server command: /give @s grass
+[14:39:11] [Server thread/INFO]: [suhan777: Gave 1 [Grass] to suhan777]
+[14:39:15] [Server thread/INFO]: line8010 issued server command: /fill 22 -61 -32 ~ ~ ~ minecraft:grass_block
+[14:39:15] [Server thread/INFO]: [line8010: Successfully filled 6612 block(s)]
+[14:39:21] [Async Chat Thread - #30/INFO]: <RuneNyang_> r
+[14:39:28] [Server thread/INFO]: suhan777 issued server command: /kill @e[type=minecraft:slime]
+[14:39:28] [Server thread/INFO]: [suhan777: Killed 100 entities]
+[14:39:29] [Server thread/INFO]: suhan777 issued server command: /kill @e[type=minecraft:slime]
+[14:39:29] [Server thread/INFO]: [suhan777: Killed 6 entities]
+[14:39:29] [Server thread/INFO]: suhan777 issued server command: /kill @e[type=minecraft:slime]
+[14:39:29] [Server thread/INFO]: [suhan777: Killed Slime]
+[14:39:30] [Server thread/INFO]: suhan777 issued server command: /kill @e[type=minecraft:slime]
+[14:39:30] [Server thread/INFO]: [suhan777: Killed 184 entities]
+[14:39:30] [Server thread/INFO]: suhan777 issued server command: /kill @e[type=minecraft:slime]
+[14:39:30] [Server thread/INFO]: [suhan777: Killed 22 entities]
+[14:39:30] [Server thread/INFO]: suhan777 issued server command: /kill @e[type=minecraft:slime]
+[14:39:30] [Server thread/INFO]: [suhan777: Killed 12 entities]
+[14:39:31] [Server thread/INFO]: suhan777 issued server command: /kill @e[type=minecraft:slime]
+[14:39:31] [Server thread/INFO]: [suhan777: Killed 267 entities]
+[14:39:31] [Server thread/INFO]: suhan777 issued server command: /kill @e[type=minecraft:slime]
+[14:39:31] [Server thread/INFO]: [suhan777: Killed 36 entities]
+[14:39:32] [Server thread/INFO]: suhan777 issued server command: /kill @e[type=minecraft:slime]
+[14:39:32] [Server thread/INFO]: [suhan777: Killed 23 entities]
+[14:39:32] [Server thread/INFO]: suhan777 issued server command: /kill @e[type=minecraft:slime]
+[14:39:32] [Server thread/INFO]: [suhan777: Killed 67 entities]
+[14:39:32] [Server thread/INFO]: suhan777 issued server command: /kill @e[type=minecraft:slime]
+[14:39:32] [Server thread/INFO]: [suhan777: Killed 41 entities]
+[14:39:33] [Server thread/INFO]: suhan777 issued server command: /kill @e[type=minecraft:slime]
+[14:39:33] [Server thread/INFO]: [suhan777: Killed 49 entities]
+[14:39:33] [Server thread/INFO]: suhan777 issued server command: /kill @e[type=minecraft:slime]
+[14:39:33] [Server thread/INFO]: [suhan777: Killed 65 entities]
+[14:39:34] [Server thread/INFO]: suhan777 issued server command: /kill @e[type=minecraft:slime]
+[14:39:34] [Server thread/INFO]: [suhan777: Killed 77 entities]
+[14:39:34] [Server thread/INFO]: suhan777 issued server command: /kill @e[type=minecraft:slime]
+[14:39:34] [Server thread/INFO]: [suhan777: Killed 37 entities]
+[14:39:34] [Server thread/INFO]: suhan777 issued server command: /kill @e[type=minecraft:slime]
+[14:39:34] [Server thread/INFO]: [suhan777: Killed 86 entities]
+[14:39:35] [Server thread/INFO]: suhan777 issued server command: /give @s grass
+[14:39:35] [Server thread/INFO]: [suhan777: Gave 1 [Grass] to suhan777]
+[14:39:36] [Server thread/INFO]: suhan777 issued server command: /give @s grass
+[14:39:36] [Server thread/INFO]: [suhan777: Gave 1 [Grass] to suhan777]
+[14:39:38] [Server thread/INFO]: suhan777 issued server command: /
+[14:39:39] [Server thread/INFO]: suhan777 issued server command: /
+[14:39:39] [Server thread/INFO]: suhan777 issued server command: /
+[14:39:40] [Server thread/INFO]: suhan777 issued server command: /
+[14:39:40] [Server thread/INFO]: suhan777 issued server command: /give @s grass
+[14:39:40] [Server thread/INFO]: [suhan777: Gave 1 [Grass] to suhan777]
+[14:39:43] [Server thread/INFO]: suhan777 issued server command: /kill @e[type=minecraft:slime]
+[14:39:43] [Server thread/INFO]: [suhan777: Killed 222 entities]
+[14:39:44] [Server thread/INFO]: suhan777 issued server command: /kill @e[type=minecraft:slime]
+[14:39:44] [Server thread/INFO]: [suhan777: Killed 8 entities]
+[14:39:44] [Server thread/INFO]: suhan777 issued server command: /kill @e[type=minecraft:slime]
+[14:39:44] [Server thread/INFO]: [suhan777: Killed 136 entities]
+[14:39:45] [Server thread/INFO]: suhan777 issued server command: /kill @e[type=minecraft:slime]
+[14:39:45] [Server thread/INFO]: [suhan777: Killed 10 entities]
+[14:39:45] [Server thread/INFO]: suhan777 issued server command: /kill @e[type=minecraft:slime]
+[14:39:45] [Server thread/INFO]: [suhan777: Killed 15 entities]
+[14:39:46] [Server thread/INFO]: suhan777 issued server command: /kill @e[type=minecraft:slime]
+[14:39:46] [Server thread/INFO]: [suhan777: Killed 156 entities]
+[14:39:46] [Server thread/INFO]: suhan777 issued server command: /kill @e[type=minecraft:slime]
+[14:39:46] [Server thread/INFO]: [suhan777: Killed 75 entities]
+[14:39:47] [Server thread/INFO]: suhan777 issued server command: /kill @e[type=minecraft:slime]
+[14:39:47] [Server thread/INFO]: [suhan777: Killed 37 entities]
+[14:39:47] [Server thread/INFO]: suhan777 issued server command: /kill @e[type=minecraft:slime]
+[14:39:47] [Server thread/INFO]: [suhan777: Killed 149 entities]
+[14:39:48] [Server thread/INFO]: suhan777 issued server command: /kill @e[type=minecraft:slime]
+[14:39:48] [Server thread/INFO]: [suhan777: Killed 27 entities]
+[14:39:48] [Server thread/INFO]: suhan777 issued server command: /kill @e[type=minecraft:slime]
+[14:39:48] [Server thread/INFO]: [suhan777: Killed 10 entities]
+[14:39:49] [Server thread/INFO]: suhan777 issued server command: /kill @e[type=minecraft:slime]
+[14:39:49] [Server thread/INFO]: [suhan777: Killed 33 entities]
+[14:39:49] [Server thread/INFO]: suhan777 issued server command: /kill @e[type=minecraft:slime]
+[14:39:49] [Server thread/INFO]: [suhan777: Killed 78 entities]
+[14:39:50] [Server thread/INFO]: suhan777 issued server command: /kill @e[type=minecraft:slime]
+[14:39:50] [Server thread/INFO]: [suhan777: Killed 114 entities]
+[14:39:53] [Server thread/INFO]: suhan777 issued server command: /kill @e[type=minecraft:slime]
+[14:39:53] [Server thread/INFO]: [suhan777: Killed 165 entities]
+[14:39:54] [Server thread/INFO]: suhan777 issued server command: /kill @e[type=minecraft:slime]
+[14:39:54] [Server thread/INFO]: [suhan777: Killed 196 entities]
+[14:39:55] [Server thread/INFO]: suhan777 issued server command: /kill @e[type=minecraft:slime]
+[14:39:55] [Server thread/INFO]: [suhan777: Killed 13 entities]
+[14:39:56] [Server thread/INFO]: suhan777 issued server command: /kill @e[type=minecraft:slime]
+[14:39:56] [Server thread/INFO]: [suhan777: Killed 214 entities]
+[14:39:56] [Server thread/INFO]: suhan777 issued server command: /kill @e[type=minecraft:slime]
+[14:39:56] [Server thread/INFO]: [suhan777: Killed 35 entities]
+[14:39:57] [Server thread/INFO]: suhan777 issued server command: /kill @e[type=minecraft:slime]
+[14:39:57] [Server thread/INFO]: [suhan777: Killed 107 entities]
+[14:39:58] [Server thread/INFO]: suhan777 issued server command: /kill @e[type=minecraft:slime]
+[14:39:58] [Server thread/INFO]: [suhan777: Killed 112 entities]
+[14:39:59] [Server thread/INFO]: suhan777 issued server command: /kill @e[type=minecraft:slime]
+[14:39:59] [Server thread/INFO]: [suhan777: Killed 12 entities]
+[14:40:00] [Server thread/INFO]: suhan777 issued server command: /kill @e[type=minecraft:slime]
+[14:40:00] [Server thread/INFO]: [suhan777: Killed 118 entities]
+[14:40:00] [Server thread/INFO]: suhan777 issued server command: /kill @e[type=minecraft:slime]
+[14:40:00] [Server thread/INFO]: [suhan777: Killed 21 entities]
+[14:40:01] [Server thread/INFO]: suhan777 issued server command: /
+[14:40:01] [Server thread/INFO]: suhan777 issued server command: /
+[14:40:02] [Server thread/INFO]: suhan777 issued server command: /kill @e[type=minecraft:slime]
+[14:40:02] [Server thread/INFO]: [suhan777: Killed 168 entities]
+[14:40:03] [Server thread/INFO]: RuneNyang_ issued server command: /tp line8010
+[14:40:03] [Server thread/INFO]: [RuneNyang_: Teleported RuneNyang_ to line8010]
+[14:40:04] [Server thread/INFO]: suhan777 issued server command: /kill @e[type=minecraft:slime]
+[14:40:04] [Server thread/INFO]: [suhan777: Killed 123 entities]
+[14:40:06] [Server thread/INFO]: suhan777 issued server command: /kill @e[type=minecraft:slime]
+[14:40:06] [Server thread/INFO]: [suhan777: Killed 153 entities]
+[14:40:07] [Server thread/INFO]: suhan777 issued server command: /kill @e[type=minecraft:slime]
+[14:40:07] [Server thread/INFO]: [suhan777: Killed 88 entities]
+[14:40:08] [Server thread/INFO]: suhan777 issued server command: /kill @e[type=minecraft:slime]
+[14:40:08] [Server thread/INFO]: [suhan777: Killed 107 entities]
+[14:40:09] [Server thread/INFO]: suhan777 issued server command: /kill @e[type=minecraft:slime]
+[14:40:09] [Server thread/INFO]: [suhan777: Killed 78 entities]
+[14:40:10] [Server thread/INFO]: suhan777 issued server command: /kill @e[type=minecraft:slime]
+[14:40:10] [Server thread/INFO]: [suhan777: Killed 8 entities]
+[14:40:11] [Server thread/INFO]: suhan777 issued server command: /kill @e[type=minecraft:slime]
+[14:40:11] [Server thread/INFO]: [suhan777: Killed 79 entities]
+[14:40:34] [Server thread/INFO]: suhan777 issued server command: /kill @e[type= item]
+[14:40:34] [Server thread/INFO]: [suhan777: Killed 323 entities]
+[14:40:57] [Server thread/INFO]: RuneNyang_ issued server command: /tp line8010
+[14:40:57] [Server thread/INFO]: [RuneNyang_: Teleported RuneNyang_ to line8010]
+[14:41:41] [Server thread/INFO]: suhan777 issued server command: /kill @e[type= minecraft:chicken]
+[14:41:41] [Server thread/INFO]: [suhan777: Killed 98 entities]
+[14:41:43] [Server thread/INFO]: suhan777 issued server command: /kill @e[type= item]
+[14:41:43] [Server thread/INFO]: [suhan777: Killed 144 entities]
+[14:42:44] [Server thread/INFO]: suhan777 issued server command: /clear
+[14:42:44] [Server thread/INFO]: [suhan777: Removed 45 item(s) from player suhan777]
+[14:46:06] [Server thread/INFO]: suhan777 issued server command: /tp 0 0 0
+[14:46:06] [Server thread/INFO]: [suhan777: Teleported suhan777 to 0.500000, 0.000000, 0.500000]
+[14:46:06] [Server thread/WARN]: suhan777 moved too quickly! 12.510738930903265,65.79999995231628,12.072685416969186
+[14:46:06] [Server thread/WARN]: suhan777 moved too quickly! 12.510738930903265,65.79999995231628,12.072685416969186
+[14:46:06] [Server thread/WARN]: suhan777 moved too quickly! 12.510738930903265,65.79999995231628,12.072685416969186
+[14:49:57] [Async Chat Thread - #32/INFO]: <RuneNyang_> 오오
+[14:51:38] [Server thread/INFO]: RuneNyang_ issued server command: /effect give @s minecraft:night_vision 99999
+[14:51:38] [Server thread/INFO]: [RuneNyang_: Applied effect Night Vision to RuneNyang_]
+[14:52:49] [Server thread/INFO]: RuneNyang_ has made the advancement [Stone Age]
+[14:53:58] [Server thread/INFO]: RuneNyang_ issued server command: /gamemode spectator
+[14:53:58] [Server thread/INFO]: [RuneNyang_: Set own game mode to Spectator Mode]
+[14:54:24] [Server thread/INFO]: RuneNyang_ issued server command: /gamemode creative
+[14:54:24] [Server thread/INFO]: [RuneNyang_: Set own game mode to Creative Mode]
+[14:55:20] [Server thread/INFO]: suhan777 issued server command: /clear
+[14:55:20] [Server thread/INFO]: [suhan777: Removed 14 item(s) from player suhan777]
+[14:56:18] [Server thread/INFO]: RuneNyang_ issued server command: /gamemode spectator
+[14:56:18] [Server thread/INFO]: [RuneNyang_: Set own game mode to Spectator Mode]
+[14:56:26] [Server thread/INFO]: RuneNyang_ issued server command: /gamemode creative
+[14:56:26] [Server thread/INFO]: [RuneNyang_: Set own game mode to Creative Mode]
+[14:56:45] [Server thread/INFO]: RuneNyang_ issued server command: /tp line8010
+[14:56:45] [Server thread/INFO]: [RuneNyang_: Teleported RuneNyang_ to line8010]
+[14:56:45] [Server thread/WARN]: RuneNyang_ moved too quickly! -73.93469465593607,-6.7147235459633166,-5.037487128214579
+[14:57:36] [Server thread/INFO]: RuneNyang_ issued server command: /effect clear @s minecraft:night_vision
+[14:57:36] [Server thread/INFO]: [RuneNyang_: Removed effect Night Vision from RuneNyang_]
+[14:58:12] [Server thread/INFO]: suhan777 issued server command: /gamemode spectator
+[14:58:12] [Server thread/INFO]: [suhan777: Set own game mode to Spectator Mode]
+[14:58:16] [Server thread/INFO]: suhan777 issued server command: /gamemode survival
+[14:58:16] [Server thread/INFO]: [suhan777: Set own game mode to Survival Mode]
+[14:58:31] [Server thread/INFO]: suhan777 issued server command: /gamemode creative
+[14:58:31] [Server thread/INFO]: [suhan777: Set own game mode to Creative Mode]
+[14:59:42] [Server thread/INFO]: line8010 issued server command: /tag @s add 1
+[14:59:42] [Server thread/INFO]: [line8010: Added tag '1' to line8010]
+[14:59:48] [Server thread/INFO]: line8010 issued server command: /clear
+[14:59:48] [Server thread/INFO]: [line8010: Removed 8 item(s) from player line8010]
+[15:02:42] [Server thread/INFO]: line8010 issued server command: /tag line8010 add 1
+[15:04:15] [Server thread/INFO]: RuneNyang_ issued server command: /tp line8010
+[15:04:15] [Server thread/INFO]: [RuneNyang_: Teleported RuneNyang_ to line8010]
+[15:04:55] [Server thread/INFO]: RuneNyang_ issued server command: /tp line8010
+[15:04:55] [Server thread/INFO]: [RuneNyang_: Teleported RuneNyang_ to line8010]
+[15:05:54] [Server thread/INFO]: line8010 issued server command: /tp RuneNyang_
+[15:05:54] [Server thread/INFO]: [line8010: Teleported line8010 to RuneNyang_]
+[15:08:06] [Server thread/INFO]: RuneNyang_ has made the advancement [Best Friends Forever]
+[15:10:32] [Server thread/INFO]: suhan777 has made the advancement [Stone Age]
+[15:10:52] [Server thread/INFO]: RuneNyang_ has reached the goal [The Next Generation]
+[15:14:20] [Server thread/INFO]: RuneNyang_ has made the advancement [Ice Bucket Challenge]
+[15:15:25] [Server thread/INFO]: line8010 has completed the challenge [Serious Dedication]
+[15:15:28] [Server thread/INFO]: RuneNyang_ has made the advancement [We Need to Go Deeper]
+[15:15:35] [Server thread/INFO]: RuneNyang_ issued server command: /tp suhan777
+[15:15:35] [Server thread/INFO]: [RuneNyang_: Teleported RuneNyang_ to suhan777]
+[15:17:12] [Server thread/INFO]: suhan777 issued server command: /give @s minecraft:command_block
+[15:17:12] [Server thread/INFO]: [suhan777: Gave 1 [Command Block] to suhan777]
+[15:18:07] [Server thread/INFO]: line8010 issued server command: /tp ~ ~ ~
+[15:18:07] [Server thread/INFO]: [line8010: Teleported line8010 to 220.321573, -60.000000, 177.469765]
+[15:20:18] [Server thread/INFO]: RuneNyang_ issued server command: /tp suhan777
+[15:20:18] [Server thread/INFO]: [RuneNyang_: Teleported RuneNyang_ to suhan777]
+[15:20:29] [Server thread/INFO]: RuneNyang_ issued server command: /tp l;
+[15:20:33] [Server thread/INFO]: RuneNyang_ issued server command: /tp line8010
+[15:20:33] [Server thread/INFO]: [RuneNyang_: Teleported RuneNyang_ to line8010]
+[15:20:33] [Server thread/WARN]: RuneNyang_ moved too quickly! 37.442962117192586,-1.0,-45.990384256482635
+[15:20:34] [Server thread/INFO]: line8010 issued server command: /clear
+[15:20:34] [Server thread/INFO]: [line8010: Removed 74 item(s) from player line8010]
+[15:20:44] [Server thread/INFO]: line8010 lost connection: Disconnected
+[15:20:44] [Server thread/INFO]: line8010 left the game
+[15:24:00] [Async Chat Thread - #34/INFO]: <RuneNyang_> 나 잠수
+[15:25:23] [Server thread/INFO]: [Not Secure] [Server] 어쩔
+[15:26:30] [Server thread/INFO]: [Not Secure] [Server] 어쩔뚱땅
+[15:27:47] [Server thread/INFO]: Teleported RuneNyang_ to 100.500000, 2000.000000, 100.500000
+[15:28:07] [Server thread/WARN]: RuneNyang_ moved too quickly! 0.0,-70.52817583563115,0.0
+[15:28:27] [Server thread/INFO]: Teleported RuneNyang_ to 0.000000, -360.000000, 0.000000
+[15:28:28] [Server thread/INFO]: RuneNyang_ fell out of the world
+[15:28:37] [Server thread/INFO]: [Not Secure] [Server] ㅋㅋㅋㅋㅋㅋ
+[15:28:45] [Async Chat Thread - #38/INFO]: <RuneNyang_> ㅂㅇ
+[15:28:57] [Server thread/INFO]: [Not Secure] [Server] 어디감?
+[15:29:29] [Server thread/INFO]: RuneNyang_ lost connection: Disconnected
+[15:29:29] [Server thread/INFO]: RuneNyang_ left the game
+[15:29:41] [Server thread/INFO]: [Not Secure] [Server] 태영아
+[15:29:49] [Async Chat Thread - #38/INFO]: <suhan777> ?
+[15:29:56] [Server thread/INFO]: [Not Secure] [Server] 걍 불러봄
+[15:34:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9081ms or 181 ticks behind
+[15:34:33] [Server thread/WARN]: suhan777 moved too quickly! -16.39203876624327,0.0,0.3352970027525224
+[15:58:36] [Server thread/INFO]: suhan777 issued server command: /clear
+[15:58:36] [Server thread/INFO]: [suhan777: Removed 13 item(s) from player suhan777]
+[16:00:22] [Server thread/INFO]: suhan777 issued server command: /clear
+[16:00:22] [Server thread/INFO]: [suhan777: Removed 5 item(s) from player suhan777]
+[16:28:59] [Server thread/INFO]: There are 1 of a max of 20 players online: suhan777
+[16:30:19] [User Authenticator #18/INFO]: UUID of player line8010 is 78f680fe-4f34-45bf-99da-5e9fce9e5daf
+[16:30:19] [Server thread/INFO]: line8010 joined the game
+[16:30:19] [Server thread/INFO]: line8010[/192.168.50.1:58276] logged in with entity id 846802 at ([happy]0.4787284308710682, -44.498940405443065, 19.93430936686933)
+[16:30:56] [Async Chat Thread - #41/INFO]: <line8010> 인스타
+[16:31:29] [Server thread/INFO]: line8010 issued server command: /tag line8010 add a
+[16:31:29] [Server thread/INFO]: [line8010: Added tag 'a' to line8010]
+[16:31:35] [Server thread/INFO]: line8010 issued server command: /tag line8010 add b
+[16:31:35] [Server thread/INFO]: [line8010: Added tag 'b' to line8010]
+[16:31:43] [Server thread/INFO]: line8010 issued server command: /tag line8010 remove a
+[16:31:43] [Server thread/INFO]: [line8010: Removed tag 'a' from line8010]
+[16:31:46] [Server thread/INFO]: line8010 issued server command: /tag line8010 remove b
+[16:31:46] [Server thread/INFO]: [line8010: Removed tag 'b' from line8010]
+[16:31:49] [Server thread/INFO]: line8010 issued server command: /tag line8010 remove e
+[16:31:54] [Server thread/INFO]: line8010 issued server command: /tag line8010 add e
+[16:31:54] [Server thread/INFO]: [line8010: Added tag 'e' to line8010]
+[16:32:04] [Server thread/INFO]: line8010 issued server command: /tag line8010 add
+[16:34:16] [Server thread/INFO]: suhan777 issued server command: /give @s minecraft:command_block
+[16:34:16] [Server thread/INFO]: [suhan777: Gave 1 [Command Block] to suhan777]
+[16:48:16] [Async Chat Thread - #43/INFO]: <line8010> 인스타 받아
+[17:20:19] [Server thread/INFO]: suhan777 issued server command: /tag @e[type= minecraft:chicken] add a
+[17:20:19] [Server thread/INFO]: [suhan777: Added tag 'a' to 13 entities]
+[17:20:33] [Server thread/INFO]: Named entity EntityChicken['b'/560474, uuid='8f8d82ed-a4dd-4168-ac9a-9f4d3aa9e22c', l='ServerLevel[happy]', x=-13.93, y=-60.00, z=-16.01, cpos=[-1, -2], tl=102376, v=true] died: b was slain by suhan777
+[17:20:39] [Server thread/INFO]: suhan777 issued server command: /
+[17:20:40] [Server thread/INFO]: suhan777 issued server command: /tag @e[type= minecraft:chicken] add a
+[17:20:40] [Server thread/INFO]: [suhan777: Added tag 'a' to Chicken]
+[17:21:01] [Server thread/INFO]: suhan777 issued server command: /effect give @e[tag= a] minecraft:health_boost infinite 77
+[17:21:01] [Server thread/INFO]: [suhan777: Applied effect Health Boost to Chicken]
+[17:21:06] [Server thread/INFO]: suhan777 issued server command: /effect give @e[tag= a] minecraft:health_boost infinite 77 true
+[17:21:06] [Server thread/INFO]: [suhan777: Applied effect Health Boost to Chicken]
+[17:21:18] [Server thread/INFO]: suhan777 issued server command: /effect give @e[tag= a] minecraft:regeneration 30 255
+[17:21:18] [Server thread/INFO]: [suhan777: Applied effect Regeneration to Chicken]
+[17:21:30] [Server thread/INFO]: suhan777 issued server command: /clear
+[17:21:30] [Server thread/INFO]: [suhan777: Removed 30 item(s) from player suhan777]
+[17:22:07] [Server thread/INFO]: line8010 issued server command: /tag @s add a
+[17:22:07] [Server thread/INFO]: [line8010: Added tag 'a' to line8010]
+[17:22:12] [Server thread/INFO]: line8010 issued server command: /tag @s add b
+[17:22:12] [Server thread/INFO]: [line8010: Added tag 'b' to line8010]
+[17:22:14] [Server thread/INFO]: line8010 issued server command: /tag @s add c
+[17:22:14] [Server thread/INFO]: [line8010: Added tag 'c' to line8010]
+[17:22:17] [Server thread/INFO]: line8010 issued server command: /tag @s add d
+[17:22:17] [Server thread/INFO]: [line8010: Added tag 'd' to line8010]
+[17:22:37] [Server thread/INFO]: line8010 issued server command: /gamemode survival
+[17:22:37] [Server thread/INFO]: [line8010: Set own game mode to Survival Mode]
+[17:22:57] [Server thread/INFO]: line8010 issued server command: /gamemode c
+[17:22:59] [Server thread/INFO]: line8010 issued server command: /gamemode creative
+[17:22:59] [Server thread/INFO]: [line8010: Set own game mode to Creative Mode]
+[17:23:10] [Server thread/INFO]: line8010 issued server command: /tag @s remove a
+[17:23:10] [Server thread/INFO]: [line8010: Removed tag 'a' from line8010]
+[17:23:57] [Server thread/INFO]: line8010 issued server command: /gamemode spectator
+[17:23:57] [Server thread/INFO]: [line8010: Set own game mode to Spectator Mode]
+[17:24:08] [Server thread/INFO]: line8010 issued server command: /gamemode survival
+[17:24:08] [Server thread/INFO]: [line8010: Set own game mode to Survival Mode]
+[17:24:29] [Server thread/INFO]: suhan777 issued server command: /clear
+[17:24:29] [Server thread/INFO]: [suhan777: Removed 194 item(s) from player suhan777]
+[17:25:00] [Server thread/INFO]: line8010 was killed by magic
+[17:25:20] [Server thread/INFO]: line8010 was slain by Slime
+[17:25:21] [Server thread/INFO]: suhan777 issued server command: /gamemode creative line8010
+[17:25:21] [Server thread/INFO]: [suhan777: Set line8010's game mode to Creative Mode]
+[17:25:56] [Server thread/INFO]: line8010 has completed the challenge [Cover Me in Debris]
+[17:25:56] [Server thread/INFO]: suhan777 issued server command: /effect give line8010 minecraft:health_boost infinite 30
+[17:25:56] [Server thread/INFO]: [suhan777: Applied effect Health Boost to line8010]
+[17:26:05] [Server thread/INFO]: suhan777 issued server command: /effect give line8010 minecraft:regeneration infinite 2
+[17:26:05] [Server thread/INFO]: [suhan777: Applied effect Regeneration to line8010]
+[17:26:11] [Server thread/INFO]: suhan777 issued server command: /clear
+[17:26:11] [Server thread/INFO]: [suhan777: Removed 11 item(s) from player suhan777]
+[17:29:45] [Server thread/INFO]: suhan777 issued server command: /gamemode survival
+[17:29:45] [Server thread/INFO]: [suhan777: Set own game mode to Survival Mode]
+[17:30:08] [Server thread/INFO]: suhan777 issued server command: /gamemode creative
+[17:30:08] [Server thread/INFO]: [suhan777: Set own game mode to Creative Mode]
+[17:31:18] [Server thread/INFO]: suhan777 issued server command: /gamemode survival
+[17:31:18] [Server thread/INFO]: [suhan777: Set own game mode to Survival Mode]
+[17:32:12] [Server thread/INFO]: line8010 issued server command: /gamerule keepInventory true
+[17:32:12] [Server thread/INFO]: [line8010: Gamerule keepInventory is now set to: true]
+[17:32:21] [Server thread/INFO]: suhan777 was killed by magic
+[17:32:28] [Server thread/INFO]: suhan777 was killed by magic
+[17:32:32] [Server thread/INFO]: suhan777 was struck by lightning
+[17:32:39] [Server thread/INFO]: suhan777 issued server command: /gamemode creative
+[17:32:39] [Server thread/INFO]: [suhan777: Set own game mode to Creative Mode]
+[17:32:45] [Server thread/INFO]: suhan777 issued server command: /gamemode spectator
+[17:32:45] [Server thread/INFO]: [suhan777: Set own game mode to Spectator Mode]
+[17:33:32] [Server thread/INFO]: line8010 issued server command: /gamemode survival
+[17:33:32] [Server thread/INFO]: [line8010: Set own game mode to Survival Mode]
+[17:34:17] [Server thread/INFO]: suhan777 issued server command: /gamemode creative
+[17:34:17] [Server thread/INFO]: [suhan777: Set own game mode to Creative Mode]
+[17:36:03] [Server thread/INFO]: suhan777 issued server command: /effect give @e[tag= a] minecraft:fire_resistance infinite 255 true
+[17:36:03] [Server thread/INFO]: [suhan777: Applied effect Fire Resistance to Chicken]
+[17:37:03] [Server thread/INFO]: line8010 issued server command: /gamemode survival suhan777
+[17:37:03] [Server thread/INFO]: [line8010: Set suhan777's game mode to Survival Mode]
+[17:37:07] [Server thread/INFO]: suhan777 was killed by magic
+[17:37:12] [Server thread/INFO]: suhan777 was killed by magic
+[17:37:18] [Server thread/INFO]: suhan777 was struck by lightning
+[17:37:36] [Server thread/INFO]: suhan777 was struck by lightning
+[17:38:16] [Server thread/INFO]: suhan777 was killed by magic
+[17:38:21] [Server thread/INFO]: suhan777 was killed by magic
+[17:38:25] [Server thread/INFO]: suhan777 was struck by lightning
+[17:38:29] [Server thread/INFO]: suhan777 was struck by lightning
+[17:38:36] [Server thread/INFO]: suhan777 was killed by magic
+[17:38:45] [Server thread/INFO]: suhan777 was slain by line8010
+[17:39:03] [Server thread/INFO]: suhan777 was struck by lightning whilst fighting line8010
+[17:39:18] [Server thread/INFO]: suhan777 was slain by line8010
+[17:40:08] [Server thread/INFO]: suhan777 was slain by line8010
+[17:40:16] [Server thread/INFO]: suhan777 was killed by magic
+[17:40:32] [Server thread/INFO]: suhan777 was struck by lightning whilst fighting line8010
+[17:40:40] [Server thread/INFO]: suhan777 was struck by lightning
+[17:40:46] [Server thread/INFO]: suhan777 was struck by lightning
+[17:40:55] [Server thread/INFO]: suhan777 was struck by lightning
+[17:41:01] [Server thread/INFO]: suhan777 was struck by lightning
+[17:41:05] [Server thread/INFO]: suhan777 was slain by line8010
+[17:41:11] [Server thread/INFO]: suhan777 was killed by magic
+[17:41:25] [Server thread/INFO]: suhan777 was struck by lightning whilst fighting line8010
+[17:41:39] [Server thread/INFO]: suhan777 was doomed to fall
+[17:41:46] [Server thread/INFO]: suhan777 was struck by lightning whilst fighting line8010
+[17:41:59] [Server thread/INFO]: suhan777 was slain by line8010
+[17:42:25] [Server thread/INFO]: suhan777 burned to death
+[17:42:32] [Server thread/INFO]: suhan777 was struck by lightning
+[17:42:36] [Server thread/INFO]: suhan777 was killed by magic
+[17:42:40] [Server thread/INFO]: suhan777 was killed by magic
+[17:42:45] [Server thread/INFO]: suhan777 was killed by magic whilst trying to escape Slime
+[17:42:57] [Server thread/INFO]: suhan777 was struck by lightning whilst fighting line8010
+[17:43:02] [Server thread/INFO]: suhan777 was struck by lightning
+[17:43:24] [Server thread/INFO]: line8010 issued server command: /give line8010 minecraft:stick
+[17:43:24] [Server thread/INFO]: [line8010: Gave 1 [Stick] to line8010]
+[17:43:25] [Server thread/INFO]: suhan777 was killed trying to hurt line8010
+[17:43:30] [Server thread/INFO]: suhan777 was killed by magic
+[17:43:46] [Server thread/INFO]: suhan777 was slain by line8010
+[17:44:04] [Server thread/INFO]: line8010 issued server command: /give line8010 minecraft:carrot
+[17:44:04] [Server thread/INFO]: [line8010: Gave 1 [Carrot] to line8010]
+[17:44:10] [Server thread/INFO]: line8010 issued server command: /give line8010 minecraft:carrot 63
+[17:44:10] [Server thread/INFO]: [line8010: Gave 63 [Carrot] to line8010]
+[17:44:11] [Server thread/INFO]: suhan777 was killed trying to hurt line8010
+[17:44:26] [Server thread/INFO]: suhan777 was slain by line8010
+[17:46:32] [Server thread/INFO]: suhan777 was slain by line8010
+[17:46:43] [Server thread/INFO]: suhan777 was burnt to a crisp whilst fighting line8010
+[17:46:47] [Server thread/INFO]: suhan777 was struck by lightning
+[17:46:59] [Server thread/INFO]: suhan777 tried to swim in lava to escape line8010
+[17:47:04] [Server thread/INFO]: suhan777 was killed by magic
+[17:47:28] [Server thread/INFO]: suhan777 was killed by magic whilst trying to escape line8010
+[17:47:37] [Server thread/INFO]: suhan777 was killed by magic
+[17:47:43] [Server thread/INFO]: suhan777 was killed by magic
+[17:47:49] [Server thread/INFO]: suhan777 was struck by lightning
+[17:48:12] [Server thread/INFO]: suhan777 tried to swim in lava
+[17:48:27] [Server thread/INFO]: suhan777 was slain by Slime
+[17:48:37] [Server thread/INFO]: suhan777 was killed trying to hurt line8010
+[17:48:48] [Server thread/INFO]: suhan777 tried to swim in lava
+[17:49:09] [Server thread/INFO]: suhan777 was slain by line8010
+[17:49:28] [Server thread/INFO]: suhan777 was burnt to a crisp whilst fighting line8010
+[17:49:43] [Server thread/INFO]: suhan777 tried to swim in lava to escape line8010
+[17:49:57] [Server thread/INFO]: suhan777 was struck by lightning whilst fighting line8010
+[17:50:05] [Server thread/INFO]: suhan777 was struck by lightning
+[17:50:09] [Server thread/INFO]: suhan777 issued server command: /gamemode spectator
+[17:50:09] [Server thread/INFO]: [suhan777: Set own game mode to Spectator Mode]
+[17:51:16] [Server thread/INFO]: line8010 issued server command: /kill @a
+[17:51:16] [Server thread/INFO]: line8010 was killed
+[17:51:16] [Server thread/INFO]: suhan777 was killed
+[17:51:16] [Server thread/INFO]: [line8010: Killed 2 entities]
+[17:51:22] [Server thread/INFO]: line8010 issued server command: /kill @e
+[17:51:22] [Server thread/INFO]: Named entity EntityBlaze['c'/564107, uuid='e39cb207-120c-410c-a21a-7720b6fce92b', l='ServerLevel[happy]', x=10.15, y=-60.00, z=20.83, cpos=[0, 1], tl=138211, v=true] died: c was killed
+[17:51:22] [Server thread/INFO]: line8010 was killed
+[17:51:22] [Server thread/INFO]: [line8010: Killed 232 entities]
+[17:51:28] [Server thread/INFO]: line8010 was killed by magic
+[17:51:36] [Server thread/INFO]: line8010 was killed by magic
+[17:51:48] [Server thread/INFO]: line8010 was killed by magic
+[17:52:01] [Server thread/INFO]: suhan777 issued server command: /gamemode creative
+[17:52:01] [Server thread/INFO]: [suhan777: Set own game mode to Creative Mode]
+[17:52:20] [Server thread/INFO]: suhan777 lost connection: Disconnected
+[17:52:20] [Server thread/INFO]: suhan777 left the game
+[17:52:29] [Server thread/INFO]: line8010 issued server command: /gamemode creative
+[17:52:29] [Server thread/INFO]: [line8010: Set own game mode to Creative Mode]
+[17:52:33] [Server thread/INFO]: line8010 lost connection: Disconnected
+[17:52:34] [Server thread/INFO]: line8010 left the game
+[17:52:41] [Server thread/INFO]: Stopping server
+[17:52:41] [Server thread/INFO]: Saving players
+[17:52:41] [Server thread/INFO]: Saving worlds
+[17:52:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[happy]'/minecraft:overworld
+[17:52:41] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'happy'
+[17:52:41] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'happy'
+[17:52:41] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'happy'
+[17:52:41] [Server thread/INFO]: [ChunkHolderManager] Saved 86 block chunks, 130 entity chunks, 0 poi chunks in world 'happy' in 0.11s
+[17:52:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (happy): All chunks are saved
+[17:52:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[happy_nether]'/minecraft:the_nether
+[17:52:42] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'happy_nether'
+[17:52:42] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'happy_nether'
+[17:52:42] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'happy_nether'
+[17:52:42] [Server thread/INFO]: [ChunkHolderManager] Saved 1593 block chunks, 67 entity chunks, 0 poi chunks in world 'happy_nether' in 0.67s
+[17:52:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:52:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[happy_the_end]'/minecraft:the_end
+[17:52:42] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'happy_the_end'
+[17:52:42] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'happy_the_end'
+[17:52:42] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'happy_the_end'
+[17:52:43] [Server thread/INFO]: [ChunkHolderManager] Saved 1140 block chunks, 0 entity chunks, 0 poi chunks in world 'happy_the_end' in 0.59s
+[17:52:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:52:43] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17:52:43] [Server thread/INFO]: Flushing Chunk IO
+[17:52:43] [Server thread/INFO]: Closing Thread Pool
+[17:52:43] [Server thread/INFO]: Closing Server
